@@ -18,6 +18,7 @@ class ExtractFormularioInformacoesTrimestrais:
         self.archives_zip = [f'itr_cia_aberta_{year_now}.zip' for year_now in range(2011, self.year_now + 1)]
 
     def _wget_zip(self):
+        """Faz o download dos arquivos ZIP de dados trimestrais (ITR) do site da CVM."""
         print(f"\n{__class__.__name__}\n_wget_zip\n")
         for file in self.archives_zip:
             
@@ -33,6 +34,7 @@ class ExtractFormularioInformacoesTrimestrais:
                 logging.info(f"Arquivo '{file}' já existe. Nenhum download necessário.")
 
     def _extract_zip(self) -> None:
+        """Extrai os arquivos CSV contidos nos arquivos ZIP baixados."""
         print(f"\n{__class__.__name__}\n_extract_zip\n")
         for file in self.archives_zip:
             

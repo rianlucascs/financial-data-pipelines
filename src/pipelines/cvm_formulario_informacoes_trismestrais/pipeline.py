@@ -1,6 +1,6 @@
 
-from src.pipelines.formulario_informacoes_trismestrais import ExtractFormularioInformacoesTrimestrais
-from src.pipelines.formulario_informacoes_trismestrais import TransformFormularioInformacoesTrimestrais
+from src.pipelines.cvm_formulario_informacoes_trismestrais import ExtractFormularioInformacoesTrimestrais
+from src.pipelines.cvm_formulario_informacoes_trismestrais import TransformFormularioInformacoesTrimestrais
 
 class PipelineFormularioInformacoesTrimestrais:
 

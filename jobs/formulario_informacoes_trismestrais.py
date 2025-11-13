@@ -1,5 +1,5 @@
 
-from src.pipelines.formulario_informacoes_trismestrais import PipelineFormularioInformacoesTrimestrais
+from src.pipelines.cvm_formulario_informacoes_trismestrais import PipelineFormularioInformacoesTrimestrais
 
 class JobFormularioInformacoesTrimestrais:
 
