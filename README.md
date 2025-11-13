@@ -1,5 +1,10 @@
 # Financial Data Pipelines
 
+- Python
+- ETL
+- OOP
+- SQLite
+
 Executa pipelines de extração, transformação e carga (ETL) de dados financeiros.
 
 **Objetivo:**
