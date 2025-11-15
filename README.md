@@ -15,5 +15,6 @@ Executa pipelines de extração, transformação e carga (ETL) de dados financei
 
 **Pipelines incluídos:**
 
-- **Formulário de Informações Trimestrais** — extração e transformação do balanço patrimonial trimestral.
+- **Formulário de Informações Trimestrais** — coleta do balanço patrimonial trimestral.
 
+- **B3 Companies Page** - busca informações no site da B3 sobre empresas com balanço patrimonial registrado na CVM.
