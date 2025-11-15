@@ -100,14 +100,14 @@ class TransformFormularioInformacoesTrimestrais:
             else:
                 logging.info(f"Arquivo '{name_order_columns_txt}' já existe.")
     
-    def _lista_DENOM_CIA(self):
+    def _filter_columns_DENOM_CIA_e_CNPJ_CIA(self):
         """Cria um arquivo CSV com a lista única de companhias (DENOM_CIA)."""
-        print(f"\n{__class__.__name__}\n_lista_DENOM_CIA\n")
+        print(f"\n{__class__.__name__}\n_filter_columns_DENOM_CIA_e_CNPJ_CIA\n")
 
         # --- READ DATA --- #
 
-        name_lista_denom_cia_csv = join(f'denom_cia_unicos.csv')
-        path_processed_lista_denom_cia_csv = join(PATH_PROCESSED(self.pipeline, "lista_denom_cia"), name_lista_denom_cia_csv)
+        name_lista_denom_cia_csv = join(f'denom_cnpj_unicos.csv')
+        path_processed_lista_denom_cia_csv = join(PATH_PROCESSED(self.pipeline, "filter_columns_DENOM_CIA_e_CNPJ_CIA"), name_lista_denom_cia_csv)
         
         if not exists(path_processed_lista_denom_cia_csv):
 
@@ -134,5 +134,5 @@ class TransformFormularioInformacoesTrimestrais:
     def main(self) -> None:
         self._concats_csv()
         self._order_columns_CD_CONTA_e_DS_CONTA()
-        self._lista_DENOM_CIA()
+        self._filter_columns_DENOM_CIA_CNPJ_CIA()
         

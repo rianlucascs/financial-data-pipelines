@@ -1,0 +1,1712 @@
+    6.01 -> Caixa Líquido Atividades Operacionais
+        6.01.01 -> Lucro antes do imposto de renda e da contribuição social
+        6.01.01 -> Fluxo de Caixa Operacional
+        6.01.01 -> Recebimentos de clientes
+        6.01.01 -> Resultado do Periodo ajustado
+        6.01.01 -> Recebimento de clientes
+        6.01.01 -> Recebimento de Clientes
+        6.01.01 -> Recebimentos de prêmios de resseguros
+        6.01.01 -> Lucro antes do imposto de renda e da contribuição da social
+        6.01.01 -> Recebimento de Consumidores e de Venda de Energia
+        6.01.01 -> Caixa Gerado nas Operações
+        6.01.01 -> Ingressos procedentes das vendas de bens e serviços
+        6.01.01 -> Lucro (Prejuízo) do período
+        6.01.01 -> Recebimento de prêmios de seguros e outros
+        6.01.01 -> Lucro (prejuízo) do período
+        6.01.01 -> Lucro (Prejuízo) antes do imposto de renda e contribuição social
+        6.01.01 -> Lucro líquido do período
+        6.01.01 -> Caixa Gerado pelas Operações
+        6.01.01 -> Lucro antes do imposto de renda e contribuição social
+        6.01.01 -> Lucro Líquido do período
+        6.01.01 -> Lucro (prejuízo) antes do imposto de renda e da contribuição da social
+        6.01.01 -> Receita de Vendas e Serviços
+        6.01.01 -> Resultado antes do imposto de renda e da contribuição social
+        6.01.01 -> Lucro (prejuízo) antes do imposto de renda e da contribuição social
+        6.01.01 -> Lucro líquido do periodo
+        6.01.01 -> Pagamentos por compra de ativos financeiros mensurados ao valor justo desde seu reconhecimento inici
+        6.01.01 -> Prejuízos Líquidos de Exercício
+        6.01.01 -> Prejuízo antes dos impostos
+        6.01.01 -> Cobrança
+        6.01.01 -> Recebimento de Consumidores/Clientes
+        6.01.01 -> Ingressos procedentes das vendas de bens e prestação de serviços
+        6.01.01 -> Cobrança e Contribuições
+        6.01.01 -> Prejuízo do período
+        6.01.01 -> Lucro (prejuízo) do exercício
+        6.01.01 -> Lucro líquido (Prejuízo) do período
+        6.01.01 -> Recebimento de Clientes e Outros
+        6.01.01 -> (Prejuízo) / Lucro líquido do exercício para atividades continuadas
+        6.01.01 -> Lucro líquido (prejuízo) do período
+        6.01.01 -> Recebimento de Consumidores
+        6.01.01 -> Recebimentos de prêmios de seguro, contribuições de
+        6.01.01 -> Recebimentos de Clientes
+        6.01.01 -> Lucro Líquido (Prejuízo) do exercício
+        6.01.01 -> Recebimento de clientes e outros
+        6.01.01 -> Pagamentos por compra de ativos financeiros mensurados ao custo amortizado
+        6.01.01 -> Recebimento de receitas de acesso à rede e uso da marca
+        6.01.02 -> Outros Recebimentos
+        6.01.02 -> Imposto de renda e contribuição social diferidos
+        6.01.02 -> Resultado de equivalência patrimonial
+        6.01.02 -> Perdas estimadas para crédito de liquidação duvidosa
+        6.01.02 -> Depreciação de imobilizado
+        6.01.02 -> Depreciações e amortizações
+        6.01.02 -> Depreciação e amortização
+        6.01.02 -> Recebimentos de juros de ativos financeiros mensurados ao custo amortizado
+        6.01.02 -> Juros incorridos
+        6.01.02 -> Resgate do Fundo de Aplicação - FIP Corumbá
+        6.01.02 -> Outros Ingressos de atividades operacionais
+        6.01.02 -> Recebimentos de juros de ativos financeiros mensurados ao valor justo desde seu reconhecimento inici
+        6.01.02 -> Outros ingresos de atividades operacionais
+        6.01.02 -> Depreciação
+        6.01.02 -> Baixa de imobilizado
+        6.01.02 -> Lucro(prejuízo) antes do imposto de renda e contraibuição social
+        6.01.02 -> Sinistros e Benefícios
+        6.01.02 -> Pagamento a Fornecedores - Mat. e Serviços
+        6.01.02 -> Fornecedores - Materiais e Serviços
+        6.01.02 -> Variações nos ativos e passivos
+        6.01.02 -> Recebimento de Juros sobre Aplicação Financeira
+        6.01.02 -> Outros ingressos de atividades operacionais
+        6.01.02 -> Recebimento por Tranferencias
+        6.01.02 -> Pagamento a fornecedores
+        6.01.02 -> Variações nos Ativos e Passivos
+        6.01.02 -> Pagamentos de juros financeiros
+        6.01.02 -> Recuperações de sinistros e comissões
+        6.01.02 -> Pagamentos a fornecedores
+        6.01.02 -> Itens que ajustam o (prejuízo) / lucro do exercício
+        6.01.02 -> Pagamento de Fornecedores
+        6.01.02 -> Rendimento de Aplicações Financeiras
+        6.01.02 -> Pagamento a Fornecedores
+        6.01.02 -> Ajuste a valor presente
+        6.01.02 -> Recebimentos de sinistros e comissões
+        6.01.02 -> Depreciação e amortizações
+        6.01.02 -> Itens que não afetam caixa
+        6.01.02 -> Pagamento de fornecedores
+        6.01.02 -> Pagamentos de juros financeiros líquidos
+        6.01.02 -> Recebimento de dividendos
+        6.01.03 -> Recebimentos por amortização e vendas de ativos financeiros mensurados ao valor justo desde seu reco
+        6.01.03 -> Pagamento a Fornecedores
+        6.01.03 -> Pagamentos ao pessoal
+        6.01.03 -> Recebimento de recursos provinientes de cisão
+        6.01.03 -> Resultado de equivalência patrimonial
+        6.01.03 -> Amortização
+        6.01.03 -> Juros de Mútuo Recebido
+        6.01.03 -> Perdas/Riscos processuais
+        6.01.03 -> Pagamento ao pessoal
+        6.01.03 -> Fornecedores - Energia Elétrica
+        6.01.03 -> Imposto de recolhimento diferido
+        6.01.03 -> Pagamento de salários e encargos
+        6.01.03 -> Recebimento de Dividendos e JCP
+        6.01.03 -> Pagamentos a fornecedores pelo fornecimento de bens e serviços
+        6.01.03 -> Outros recebimentos operacionais (Salvados, Ressarcimentos e outros)
+        6.01.03 -> Salvados
+        6.01.03 -> Depreciação e amortização
+        6.01.03 -> Recebimentos por amortização e vendas de ativos financeiros mensurados ao custo amortizado
+        6.01.03 -> Variações no capital de giro
+        6.01.03 -> Amortização de intangível
+        6.01.03 -> Encargos financeiros sobre empréstimos, financiamentos e debentures
+        6.01.03 -> IRPJ, CSLL e Juros de Debêntures e Financiamentos Pagos
+        6.01.03 -> Outros
+        6.01.03 -> Baixa de ágio
+        6.01.03 -> Provisão para créditos de liquidação duvidosa
+        6.01.03 -> Provisão (reversão) para créditos de liquidação duvidosa
+        6.01.03 -> Juros sobre empréstimos e financiamentos
+        6.01.03 -> Depreciação Direito de uso
+        6.01.03 -> Provoisão para créditos de liquidação duvidosa
+        6.01.03 -> Pagamentos a Fornecedores
+        6.01.03 -> Encargos financeiros sobre debêntures
+        6.01.03 -> Equivalência patrimonial
+        6.01.03 -> Resgate do Fundo de Aplicação - FIP Corumbá
+        6.01.03 -> Rendimento de Aplicações Financeiras
+        6.01.03 -> Outros pagamentos (recebimentos) operacionais
+        6.01.03 -> Pagamento de despesas administrativas
+        6.01.03 -> Recebimento de recursos provenientes de cisão
+        6.01.03 -> Salvados, Comissões e Resseguro
+        6.01.03 -> Amortização intangível e direito de uso
+        6.01.03 -> Efeito Liquido do Imobilizado
+        6.01.03 -> Depreciação e Amortização
+        6.01.03 -> Provisão para demandas judiciais e administrativas
+        6.01.03 -> Atualização (reversão) depósito judicial
+        6.01.03 -> Resgate de Aplicações
+        6.01.03 -> Ajuste a valor presente
+        6.01.03 -> Outros recebimentos operacionais
+        6.01.03 -> Pagamento de salários e encargos sociais
+        6.01.03 -> Comissões
+        6.01.03 -> Imposto sobre sociedades
+        6.01.03 -> Resultado de Equivalência Patrimonial
+        6.01.03 -> Pagamento a Fornecedores - E. Elétrica
+        6.01.03 -> Pagamento de Salários e Encargos
+        6.01.04 -> Pagamento de Tributos
+        6.01.04 -> Pagamento de tributos
+        6.01.04 -> Dividendos e Juros s/ Capital Próprio Recebidos
+        6.01.04 -> Provisão para impairment de contas a receber e avais a agricultores
+        6.01.04 -> Pagamento de Outras Despesas Operacionais
+        6.01.04 -> Pagamentos relacionados com o imposto sobre rendimento
+        6.01.04 -> Resultado de equivalencia patrimonial
+        6.01.04 -> Pagamento de sinistros e comissões
+        6.01.04 -> Empréstimos e financiamentos
+        6.01.04 -> Pagamentos a e por conta dos empregados
+        6.01.04 -> Pagamento de Outras Despesas Operacionais e Adm
+        6.01.04 -> Depreciação do direito de uso
+        6.01.04 -> Provisão para perdas esperadas (impairment) de contas a receber
+        6.01.04 -> Salários e Encargos Sociais
+        6.01.04 -> Pagamento de Outras Despesas Operacionais e Administrativas
+        6.01.04 -> Pagamento de Outras Despesas Opercionais
+        6.01.04 -> Comissões
+        6.01.04 -> Pagamentos relacionados com o imposto sobre o rendimento
+        6.01.04 -> Variação em Títulos e valores mobiliários
+        6.01.04 -> Encargos financeiros sobre arrendamentos
+        6.01.04 -> Impostos pagos
+        6.01.04 -> Variação Monetária e encargos
+        6.01.04 -> Receitas e Despesas Operacionais
+        6.01.04 -> Efeito liquido da baixa de imobilizado
+        6.01.04 -> Juros incorridos sobre empréstimos, debêntures e financiamentos
+        6.01.04 -> Pagamentos e por conta dos empregados
+        6.01.04 -> Atualização monetária desmobilização e juros sobre arrendamento
+        6.01.04 -> Pagamento de sinistros, benefícios, resgates e comissões
+        6.01.04 ->  Pagamento de despesas administrativas
+        6.01.04 -> Obrigações trabalhistas
+        6.01.04 -> Recebimentos de juros por empréstimos
+        6.01.04 -> Juros sobre emprestimos e financiamentos
+        6.01.04 -> Estoques
+        6.01.04 -> Tributos sobre folha recolhidos
+        6.01.04 -> Pagamento de Salários e Encargos
+        6.01.04 -> Provisão (reversão) para contingências
+        6.01.04 -> Pagamento de tributos e encargos sociais
+        6.01.04 -> Receita financeira de aplicação financeira
+        6.01.04 -> Liberação de Garantia CCEE
+        6.01.04 -> Provisão para demandas judiciais e administrativas
+        6.01.04 -> Outros
+        6.01.04 -> Pagamentos  por conta dos empregados
+        6.01.04 -> Provisão para contingências
+        6.01.04 -> Ressarcimentodo Custo de Energia - Recursos da CDE e CVA
+        6.01.04 -> Distratos de unidades
+        6.01.04 -> Ressarcimento do Custo de Energia - Recursos da CDE
+        6.01.04 -> Prejuízo de exercicio
+        6.01.04 -> Pagamento de despesas administrativas
+        6.01.04 -> Liberação de Garantia - CCEE
+        6.01.04 -> Variação em títulos e valores mobiliários
+        6.01.04 -> Depreciação e amortização (exceto arrendamentos) e Amortização direito de uso de arrendamentos
+        6.01.04 -> Pagamento de Salários e Enc. Sociais
+        6.01.04 -> Ativo biológico amortização/exaustão
+        6.01.04 -> Adiantamento de Clientes
+        6.01.04 -> Despesas com pagamentos baseados em ações
+        6.01.04 -> Pagamentos de sinistros, benefícios, resgates e comissões
+        6.01.04 -> Provisão para créditos de liquidação duvidosa
+        6.01.04 -> Baixa alienação do ativo imobilizado e intangível
+        6.01.04 -> Provisões para perdas, baixa de outros ativos e créditos Provisões para perdas, baixa de outros ativ
+        6.01.05 -> Provisão para garantia
+        6.01.05 -> Pagamento de Outras Despesas Operacionais
+        6.01.05 -> Resultado na venda de ativos imobilizados
+        6.01.05 -> Outros ativos circulantes
+        6.01.05 -> Provisão para demandas judiciais e administrativas
+        6.01.05 -> Receita financeira caixa restrito
+        6.01.05 -> Despesas com pagamentos baseados em ações
+        6.01.05 -> Atualização monetária de demandas judiciais
+        6.01.05 -> Outros
+        6.01.05 -> Ajuste a valor presente
+        6.01.05 -> Outros ativos e passivos
+        6.01.05 -> Liberação de Garantia - CCEE
+        6.01.05 -> Resseguro
+        6.01.05 -> Apropriação do custo de captação
+        6.01.05 -> Provisões para contingências
+        6.01.05 -> Baixa de valor residual de imobilizado e intangível e Baixa direito de uso de arrendamentos
+        6.01.05 -> Repasse de prêmios por cessão de riscos
+        6.01.05 -> Receita financeira de aplicação financeira
+        6.01.05 -> Devolução de repasse para Controladas
+        6.01.05 -> Valor residual alienação de ativos imob. e intangível e descontos
+        6.01.05 -> Juros sobre arrendamentos
+        6.01.05 -> Provisão para contingências
+        6.01.05 -> Pagamento de Tributos
+        6.01.05 -> Provisão para contingências e PCLD
+        6.01.05 -> IRPJ e CSLL corrente
+        6.01.05 -> Valor residual alienação de ativos imob. e intangível
+        6.01.05 -> Salários e Encargos Sociais
+        6.01.05 -> Repasses de prêmios por cessão de riscos
+        6.01.05 -> Juros e variações monetárias sobre empréstimos e financiamentos, arrendamentos e debêntures
+        6.01.05 -> Pagamentos relativos a impostos, taxas e outros
+        6.01.05 -> Pagamento de despesas operacionais
+        6.01.05 -> Tributos sobre receitas pagos
+        6.01.05 -> Outros pagamentos de atividades operacionais
+        6.01.05 -> Valor residual baixa de imobilizado e direito de uso
+        6.01.05 -> Dividendos e Juros sobre Capital Próprio Recebidos
+        6.01.05 -> Outros pagamentos de atrividades operacionais
+        6.01.05 -> Encargos da Divida
+        6.01.05 -> Valor residual baixa de imobilizado e planta portadora
+        6.01.05 -> Variação dos tributos a recuperar
+        6.01.05 -> Empréstimos e Financiamentos
+        6.01.05 -> Pagamento de Encargos Setoriais
+        6.01.05 -> Rendimento de Aplicações Financeiras
+        6.01.05 -> Despesas Administrativas
+        6.01.05 -> Outros Recebimentos
+        6.01.05 -> Recebimentos de juros por outros créditos
+        6.01.05 -> Pagamento de outras despesas operacionais
+        6.01.05 -> Baixa de outros ativos imobilizados
+        6.01.05 -> Depreciações e amortizações
+        6.01.05 -> Pagamentos relativos a impostos indiretos, taxas e outros
+        6.01.05 -> Pagamentos relativos a impostos indiretos, taxas, e outros
+        6.01.05 -> Adiantamento a Terceiros
+        6.01.05 -> Contas a receber
+        6.01.06 -> Provisão para recuperação dos ativos de vida longa ("impairment")
+        6.01.06 -> Outros Recebimentos
+        6.01.06 -> Impostos diferidos
+        6.01.06 -> Resultado líquido valor presente e justo e subvenção
+        6.01.06 -> IRPJ e CSLL diferido
+        6.01.06 -> Recebimento de Receitas Financeiras
+        6.01.06 -> Pagamento de Outras Despesas Operacionais
+        6.01.06 -> Juros e variação monetária
+        6.01.06 -> Pagamento de Outras Despesas Operacionais e Administrativas
+        6.01.06 -> Pagamento de Impostos e Contribuições
+        6.01.06 -> Despesas com pagamentos baseados em ações
+        6.01.06 -> Resultado de equivalência patrimonial
+        6.01.06 -> Rendimentos de aplicações financeiras e juros recebidos
+        6.01.06 -> Rendimentos de debêntures
+        6.01.06 -> Juros recebidos
+        6.01.06 -> Provisão para riscos e reversões
+        6.01.06 -> Variação de outros ativos circulantes
+        6.01.06 -> Pagamentos de despesas com operações de seguros e resseguros
+        6.01.06 -> Outros
+        6.01.06 -> Resultado financeiro
+        6.01.06 -> Provisão para contingências
+        6.01.06 -> Despesas Antecipadas
+        6.01.06 -> Outros Recebimentos e Pagamentos das Atividades diretas
+        6.01.06 -> Resultado líquido a valor presente, justo e subvenção
+        6.01.06 -> Clientes
+        6.01.06 -> Pagamentos de despesas e obrigações
+        6.01.06 -> Desp. de juros de empréstimos, financiamentos, debêntures (Custo de captação), Desp de aj. a valor p
+        6.01.06 -> Contas a receber
+        6.01.06 -> Outros pagamentos
+        6.01.06 -> Resultado líquido a valor presente, justo e subvenção, impairment e desc. COVID
+        6.01.06 -> Imposto de renda e contribuição social pagos
+        6.01.06 -> Resultado valor justo, presente e subvenção
+        6.01.06 -> Resultado Financeiro
+        6.01.06 -> Provisão para contingências e redução ao valor recuperável do ativo
+        6.01.06 -> Resultado de equivalência patrimonial, líquido de impostos
+        6.01.06 -> Tributos e contribuições a recuperar
+        6.01.06 -> Efeito líquido da renegociação do arrendamento
+        6.01.06 -> Juros pagos
+        6.01.06 -> Outras Receitas
+        6.01.06 -> Amortização sobre direito de uso
+        6.01.06 -> Estoque
+        6.01.06 -> Pagamentos de juros por depósitos
+        6.01.06 -> Impostos e Contribuições
+        6.01.06 -> Receitas e Despesas Operacionais
+        6.01.06 -> Fornecedores de Energia Elétrica e Gás
+        6.01.06 -> Pagamento de Encargos da Dívida
+        6.01.06 -> Perdas estimadas (impairment) de estoques
+        6.01.06 -> Provisão para perdas em estoques
+        6.01.06 -> Remensuração de direito de uso
+        6.01.06 -> Rendimento de Aplicações Financeiras
+        6.01.06 -> Dividendos e Juros sobre Capital Próprio Recebidos
+        6.01.06 -> Provisão para perdas nos estoques
+        6.01.06 -> Baixa de IFRS 16
+        6.01.06 -> (-) Fornecedores de Materia Prima
+        6.01.06 -> Tributos diferidos
+        6.01.07 -> Dividendos e Juros s/Capital Próprio
+        6.01.07 -> Outros ativos circulantes
+        6.01.07 -> Pagamento de Outras Despesas
+        6.01.07 -> Variação de depósitos judiciais
+        6.01.07 -> Impostos sobre lucros recuperados (pagos)
+        6.01.07 -> (Reversões) provisões para contigências
+        6.01.07 -> Resultado líquido valor presente e justo e subvenções
+        6.01.07 -> Clientes
+        6.01.07 -> Pagamentos de despesas e obrigações
+        6.01.07 -> Recebimento de Dividendos
+        6.01.07 -> Fornecedores
+        6.01.07 -> Recebimento de aluguéis e outros recebimentos operacionais
+        6.01.07 -> Constituição, atualização e reversão de provisão para riscos
+        6.01.07 -> Recebimento de aluguéis e venda de imóveis
+        6.01.07 -> Outros ativos
+        6.01.07 -> Despesas Administrativas
+        6.01.07 -> Dividendos e Juros sobre Capital Próprio
+        6.01.07 -> Recebimento liquido por ativos financeiros mensurados ao valor justo mantidos para negociação
+        6.01.07 -> Demais provisões
+        6.01.07 -> Provisão para perdas nos estoques
+        6.01.07 -> Tributos a recuperar
+        6.01.07 -> (-) Serviços Prestados
+        6.01.07 -> (Pagamento) / Recebimento por ativos financeiros mensurados ao valor justo mantidos para negociação
+        6.01.07 -> Pagamento de Encargos da Divida
+        6.01.07 -> Outros Créditos
+        6.01.07 -> Ganho na distribuição de lucro desproporcional
+        6.01.07 -> Pagamento de Encargos da Dívida
+        6.01.07 -> Outros pagamentos operacionais
+        6.01.07 -> Juros recebidos
+        6.01.07 -> Resultado Financeiro
+        6.01.07 -> Encargos Setoriais
+        6.01.07 -> Equivalência patrimonial
+        6.01.07 -> Recebimento / (Pagamento) por ativos financeiros mensurados ao valor justo mantidos para negociação
+        6.01.07 -> Outras Provisões
+        6.01.07 -> Créditos de impostos extemporâneos
+        6.01.07 -> Juros e variação monetária
+        6.01.07 -> Estoques
+        6.01.07 -> Pagamento de imposto de renda e contribuição social
+        6.01.07 -> Juros e variações monet. e cambiais s/ emprést. financ., arrendamentos e outros passivos
+        6.01.07 -> Depreciação
+        6.01.07 -> Juros sobre arrendamentos
+        6.01.07 -> Ajuste a valor justo
+        6.01.07 -> Tributos sobre folha recolhidos
+        6.01.07 -> Fornecedores - Materiais e Serviços
+        6.01.07 -> Outros Recebimentos
+        6.01.07 -> Imposto de renda e contribuição social diferidos
+        6.01.07 -> Provisão estimada para créditos de liquidação duvidosa
+        6.01.07 -> Rendimentos de aplicações financeiras
+        6.01.07 -> Fornecedores de Materiais e Serviços
+        6.01.07 -> Juros Recebidos
+        6.01.08 -> Rendimento de Aplicações Financeiras
+        6.01.08 -> Trbutos sobre receitas
+        6.01.08 -> Trbutos sobre receitas pagos
+        6.01.08 -> Pagamento liquido por ativos financeiros mensurados ao custo amortizado
+        6.01.08 -> (Pagamento) / Recebimento liquido por empréstimos
+        6.01.08 -> Pagamento por ativos financeiros designados ao valor justo com mudanças em resultados
+        6.01.08 -> Pagamento liquido por ativos financeiros mensurados ao valor justo desde seu reconhecimento inicia
+        6.01.08 -> Títulos e valores mobiliários
+        6.01.08 -> Recebimento de serviços
+        6.01.08 -> Provisões
+        6.01.08 -> Juros provisionados
+        6.01.08 -> Receita financeira títulos e valores mobiliários
+        6.01.08 -> Pagamento por ativos financeiros mensurados ao valor justo desde seu reconhecimento inicial
+        6.01.08 -> Recebimento liquido por ativos financeiros mensurados ao valor justo desde seu reconhecimento inicia
+        6.01.08 -> Depósitos judiciais
+        6.01.08 -> Contas a Receber
+        6.01.08 -> Dividendos e Juros Sobre Capital Próprio Recebidos
+        6.01.08 -> Tributos sobre receitas pagos
+        6.01.08 -> Recebimento de aluguéis
+        6.01.08 -> Recebimento liquido por ativos financeiros mensurados ao custo amortizado
+        6.01.08 -> Encargos Financeiros
+        6.01.08 -> Resultado de mudança de percentual
+        6.01.08 -> Impostos a Recuperar e Outros Créditos
+        6.01.08 -> Provisão estimada para créditos de liquidação duvidosa
+        6.01.08 -> Tributos sobre aplicações
+        6.01.08 -> Variação do contas a pagar
+        6.01.08 -> Fornecedores
+        6.01.08 -> Partes relacionadas a receber
+        6.01.08 -> Salários, Remuneração e Encargos
+        6.01.08 -> Impostos a recuperar e outros créditos
+        6.01.08 -> Impostos e Contribuições
+        6.01.08 -> Fornecedores - Energia Elétrica
+        6.01.08 -> Resultado nas operações de derivativos
+        6.01.08 -> Impostos sobre lucros recuperados (pagos)
+        6.01.08 -> Pagamento liquido por empréstimos
+        6.01.08 -> Custo de emissão das debêntures
+        6.01.08 -> Tributos e contribuições a recuperar
+        6.01.08 -> Ajuste a valor justo
+        6.01.08 -> Imposto de renda de contribuição social diferidos
+        6.01.08 -> Tributos a recuperar
+        6.01.08 -> (-) Salários/Honorarios e Encargos
+        6.01.08 -> Fornecedores - Materiais e Serviços
+        6.01.08 -> Receita com descontos recebidos sobre arrendamentos
+        6.01.08 -> Juros sobre empréstimos
+        6.01.08 -> Contas a receber de clientes
+        6.01.08 -> Pagamentos de indenizações e despesas em processos judiciais
+        6.01.08 -> Equivalência Patrimonial
+        6.01.08 -> Despesas financeiras - direito de uso
+        6.01.08 -> Adiantamento a fornecedores
+        6.01.08 -> Baixa de produtos avariados e obsoletos
+        6.01.08 -> Tributos
+        6.01.08 -> Outras entradas (saídas) de caixa
+        6.01.08 -> Partes relacionadas (Ativo)
+        6.01.08 -> Contas a receber
+        6.01.08 -> Outras provisões
+        6.01.09 -> Depreciações e amortizações
+        6.01.09 -> Fornecedores e floor plan
+        6.01.09 -> Ajuste a valor presente
+        6.01.09 -> Adiantamentos de Clientes
+        6.01.09 -> Fornecedores - Energia Elétrica
+        6.01.09 -> Contas a receber
+        6.01.09 -> Encargos Setoriais
+        6.01.09 -> Fornecedores
+        6.01.09 -> Outras entradas (saídas) de caixa
+        6.01.09 -> Provisão para riscos
+        6.01.09 -> Compra - TVM Disp. p/Negociação
+        6.01.09 -> Imposto de renda e contribuição social pagos
+        6.01.09 -> Variação de obrigações sociais e trabalhistas
+        6.01.09 -> Impostos e Contribuições
+        6.01.09 -> Juros sobre debêntures
+        6.01.09 -> Outras entradas(saídas) de caixa
+        6.01.09 -> Adiantamento a fornecedores
+        6.01.09 -> Outros pagamentos operacionais
+        6.01.09 -> Contas a Receber
+        6.01.09 -> Imposto de renda e contribuição social diferidos
+        6.01.09 -> Pagamento liquido por empréstimos
+        6.01.09 -> Adiantamentos a Fornecedores
+        6.01.09 -> Outros créditos
+        6.01.09 -> (Pagamento) / Recebimento liquido por empréstimos
+        6.01.09 -> Adiantamentos ativos
+        6.01.09 -> Recebimentos de juros e dividendos
+        6.01.09 -> Pagamento de Despesas Financeiras
+        6.01.09 -> (-) Financeiras
+        6.01.09 -> Outras Provisões
+        6.01.09 -> Fornecedores - Materiais e Serviços
+        6.01.09 -> (Pagamento) / Recebimento liquido por outros ativos líquidos
+        6.01.09 -> Dividendos e Juros sobre Capital Próprio Recebidos
+        6.01.09 -> Partes relacionadas (Ativos)
+        6.01.09 -> Compra - TVM - Negociação
+        6.01.09 -> Imposto de renda de contribuição social diferidos
+        6.01.09 -> Dividendos e Juros Sobre Capital Próprio Recebidos
+        6.01.09 -> Contas a pagar
+        6.01.09 -> Valor justo bolsa Proies
+        6.01.09 -> Contribuição de Iluminação Pública
+        6.01.09 -> Contas a receber de clientes
+        6.01.09 -> Juros e variações monet. e cambiais s/ emprést. financ. e deb, arrendamentos e outros passivos
+        6.01.09 -> Salários e férias a pagar
+        6.01.09 -> Tributos e contribuições a recuperar
+        6.01.09 -> Imóveis a comercializar
+        6.01.09 -> Estoques
+        6.01.09 -> Provisão para distratos
+        6.01.09 -> Pagamento liquido por outros ativos líquidos
+        6.01.09 -> Juros provisionados
+        6.01.09 -> Valor residual do ativo imobilizado baixado
+        6.01.10 -> Estoques
+        6.01.10 -> Pagamento liquido por outros ativos líquidos
+        6.01.10 -> Recebimentos liquidos por outros ativos líquidos
+        6.01.10 -> Custo das debnêntures
+        6.01.10 -> Tributos a recuperar
+        6.01.10 -> Despesas Antecipadas
+        6.01.10 -> Contribuição de Iluminação Pública
+        6.01.10 -> Encargos Setoriais
+        6.01.10 -> Juros recebidos
+        6.01.10 -> (Pagamento) / Recebemento liquido por outros ativos líquidos
+        6.01.10 -> Depreciações e amortizações
+        6.01.10 -> Venda - TVM Disp. p/Negociação
+        6.01.10 -> Venda - TVM - Negociação
+        6.01.10 -> Adiantamento a fornecedores
+        6.01.10 -> Outras Despesas
+        6.01.10 -> Salários e Encargos Sociais
+        6.01.10 -> Juros provisionados
+        6.01.10 -> Contas a receber
+        6.01.10 -> Constituição de Garantia CCEE
+        6.01.10 -> Outros créditos
+        6.01.10 -> Obrigações trabalhistas, tributos a recolher e tributos a recuperar
+        6.01.10 -> Contas a Receber
+        6.01.10 -> Fornecedores
+        6.01.10 -> Constituição de depósitos judiciais
+        6.01.10 -> Remuneração pós-combinação
+        6.01.10 -> Juros Recebidos
+        6.01.10 -> Pagamento líquido por outros créditos
+        6.01.10 -> Contas a receber de clientes
+        6.01.10 -> Doações , Contribuições e Subvenções
+        6.01.10 -> (-) Tranferencia entre Contas
+        6.01.10 -> Recebimentos de juros e dividendos
+        6.01.10 -> Fornecedroes - Energia Elétrica
+        6.01.10 -> Obrigações tributárias
+        6.01.10 -> Juros e variação cambial sobre empréstimos e financiamentos
+        6.01.10 -> Aplicações financeiras
+        6.01.10 -> Obrigações Sociais e Trabalhistas
+        6.01.10 -> Provisão para riscos
+        6.01.10 -> Contas a receber   e Outros créditos
+        6.01.10 -> Provisões
+        6.01.10 -> Variação de obrigações fiscais e tributárias
+        6.01.10 -> Outros Pagamentos/Recebimentos
+        6.01.10 -> Recebimento / (Pagamento) liquido por outros ativos líquidos
+        6.01.10 -> Encargos Financeiros
+        6.01.10 -> Constituição (Resgates) de depósitos judiciais
+        6.01.10 -> Imposto de renda e contribuição social correntes e diferidos
+        6.01.10 -> Outros
+        6.01.11 -> Arrendamento por direito de uso
+        6.01.11 -> Constituição de depósitos judiciais
+        6.01.11 -> Sálarios e Encargos Sociais
+        6.01.11 -> Compensação Financeira pela Utilização de Recursos Hídricos
+        6.01.11 -> Recebimentos líquidos por depósitos
+        6.01.11 -> (Pagamento) / Recebimento líquido por outros créditos
+        6.01.11 -> Outras contas a pagar
+        6.01.11 -> Outros ativos e passivos circulantes e não circulantes
+        6.01.11 -> Pagamentos e Encargos da Dívida
+        6.01.11 -> Trbutos sobre aplicações
+        6.01.11 -> Variação cambial líquida
+        6.01.11 -> Contribuição de Iluminação Pública
+        6.01.11 -> Recebimentos / (Pagamento) líquido por outros créditos
+        6.01.11 -> Contas a receber e outros créditos
+        6.01.11 -> Rendimentos - TVM - Negociação
+        6.01.11 -> (-) Transferencia para Coligadas
+        6.01.11 -> Contas a receber
+        6.01.11 -> Recebimento líquido por outros créditos
+        6.01.11 -> Compra - Aplicações Financeiras
+        6.01.11 -> Estoque de imóveis a comercializar, terrenos a a pagar e adiantamentos de clientes
+        6.01.11 -> Estoques
+        6.01.11 -> Obrigações tributárias
+        6.01.11 -> Rendimentos - TVM Disp. p/Negociação
+        6.01.11 -> Aplicações de investimentos ao valor justo por meio do resultado
+        6.01.11 -> Pagamento líquido por outros créditos
+        6.01.11 -> Compra - Aplicações Financeiras mensuradas ao valor justo por meio do resultado
+        6.01.11 -> Provisões
+        6.01.11 -> Obrigações trabalhistas e tributárias
+        6.01.11 -> Despesas Antecipadas
+        6.01.11 -> Contas a receber de clientes
+        6.01.11 -> Recebimento / (Pagamento) líquido por outros créditos
+        6.01.11 -> Juros sobre empréstimos
+        6.01.11 -> Outras Contas a receber
+        6.01.11 -> Salários e Encargos Sociais
+        6.01.11 -> Recursos Hídricos
+        6.01.11 -> Variação de Pró-labore
+        6.01.11 -> Redução (aumento) de contas a receber e Adiantamentos diversos
+        6.01.11 -> Adiantamento a fornecedores
+        6.01.11 -> Tributos sobre aplicações
+        6.01.11 -> Transações de pagamentos baseados em ações, liquidável em ações
+        6.01.11 -> Resgate de Fundo de Aplicação - Principal
+        6.01.11 -> Fornecedores
+        6.01.11 -> Contas a receber   e Outros créditos
+        6.01.11 -> Obrigações Tributárias
+        6.01.11 -> Comp. Financ. pela utilização de Recursos Hídricos
+        6.01.11 -> Despesas antecipadas
+        6.01.11 -> Compra - TVM - Valor Justo por Meio do Resultado
+        6.01.11 -> Impostos a recuperar
+        6.01.11 -> Juros provisionados sobre empréstimos e financiamentos
+        6.01.12 -> Salários, provisão férias e encargos sociais
+        6.01.12 -> Redução (aumento) de depósitos judiciais
+        6.01.12 -> Obrigações tributárias
+        6.01.12 -> (Pagamento) / Recebimentos líquidos por depósitos
+        6.01.12 -> Adiantamentos a fornecedores e funcionários
+        6.01.12 -> Juros provisionados sobre saldo a pagar de aquisição de participações societárias
+        6.01.12 -> Vendas e resgates de investimentos ao valor justo por meio do resultado
+        6.01.12 -> Receita financeira títulos e valores mobiliários
+        6.01.12 -> Tributos a recuperar
+        6.01.12 -> Juros e variações monetárias - partes relacionadas
+        6.01.12 -> Partes relacionadas (Passivo)
+        6.01.12 -> Variação cambial não realizada
+        6.01.12 -> Obrigações com empregados e administradores
+        6.01.12 -> Depósitos Judiciais
+        6.01.12 -> Outras Contas a Pagar
+        6.01.12 -> Recebimento de de juros sobre capital próprio
+        6.01.12 -> Outras contas a pagar
+        6.01.12 -> Obrigações tributárias e trabalhistas
+        6.01.12 -> Floor Plan
+        6.01.12 -> Imposto de renda e contribuição social pagos e retidos
+        6.01.12 -> Doações, Contribuições e Subvenções
+        6.01.12 -> Impostos a recuperar
+        6.01.12 -> Impostos e Contribuições
+        6.01.12 -> (Aumento) redução nos ativos operacionais
+        6.01.12 -> Recebimento de juros sobre capital proprio
+        6.01.12 -> Obrigações trabalhistas e tributárias
+        6.01.12 -> Vendas e resgates de investimentos ao valor justo  por meio do resultado
+        6.01.12 -> Recebimento de juros sobre capital próprio
+        6.01.12 -> Contribuição de Iluminação Pública
+        6.01.12 -> Venda - TVM - Valor Justo por Meio do Resultado
+        6.01.12 -> Fornecedores
+        6.01.12 -> Pagamentos de Encargos da Dívida
+        6.01.12 -> Resseguro
+        6.01.12 -> Recebimentos líquidos por depósitos
+        6.01.12 -> (-) Tranferencia p/aplicação
+        6.01.12 -> Venda -  Aplicações Financeiras
+        6.01.12 -> Salários, provisões e encargos
+        6.01.12 -> Outras contas a receber
+        6.01.12 -> Venda -  Aplicações Financeiras mensuradas ao valor justo por meio do resultado
+        6.01.12 -> Resgates de depósitos judiciais
+        6.01.12 -> Despesas Antecipadas
+        6.01.12 -> Recebimentos de comissões
+        6.01.12 -> Estoques
+        6.01.12 -> Saláriosl, Encargos e Benefícios Sociais
+        6.01.13 -> Impostos e Contribuições
+        6.01.13 -> Contas a receber
+        6.01.13 -> Outros
+        6.01.13 -> Impostos e contribuições pagos
+        6.01.13 -> Recebimentos de comissões
+        6.01.13 -> Adiantamento de clientes
+        6.01.13 -> Juros pagos
+        6.01.13 -> Rendimento de Títulos e Valores Mobiliários
+        6.01.13 -> Ajuste a Valor Presente
+        6.01.13 -> Outras contas a pagar
+        6.01.13 -> Pagamentos de comissões
+        6.01.13 -> Encargos Setoriais
+        6.01.13 -> Contas a pagar - partes relacionadas
+        6.01.13 -> Partes relacionadas (Passivos)
+        6.01.13 -> Partes relacionadas
+        6.01.13 -> Obrigações trabalhistas e tributos a recolher
+        6.01.13 -> Pagamento de participações nos resultados
+        6.01.13 -> Rendimento de Aplicações Financeiras
+        6.01.13 -> Juros pagos sobre empréstimos e financiamentos, arrendamentos e debêntures
+        6.01.13 -> Fornecedores
+        6.01.13 -> Resultado na remensuração de investimento
+        6.01.13 -> Adiantamentos de clientes
+        6.01.13 -> Redução (aumento) de outros ativos e Reemb a Rec de Antigos Proprietarios
+        6.01.13 -> Aumento (redução) nos passivos operacionais
+        6.01.13 -> Outras Contas a receber
+        6.01.13 -> Pagamento de Encargos da Dívida
+        6.01.13 -> Amortização de gastos na captação de recursos
+        6.01.13 -> Pagamento de Arremdamento
+        6.01.13 -> Impostos a recuperar
+        6.01.13 -> (-) Outras Contas
+        6.01.13 -> Recebimento de redução de capital
+        6.01.13 -> Impostos, Taxas e Contribuições
+        6.01.13 -> Tributos antecipados e a recuperar
+        6.01.13 -> Pagamento de Impostos e Contribuições
+        6.01.13 -> Outros créditos
+        6.01.13 -> Tributos a recolher
+        6.01.13 -> Pagamento de Arrendamento
+        6.01.13 -> Obrigações Tributárias
+        6.01.13 -> Salvados
+        6.01.13 -> Obrigações tributárias - Refis e outros impostos
+        6.01.14 -> (-) Impostos e Contribuições
+        6.01.14 -> Constituição de Caução CCEE
+        6.01.14 -> Outros ativos
+        6.01.14 -> Imposto de renda e contribuíção social pagos
+        6.01.14 -> Venda antecipada de pacotes turísticos
+        6.01.14 -> Depósitos judiciais
+        6.01.14 -> Impostos e Contribuições
+        6.01.14 -> Despesas antecipadas
+        6.01.14 -> Pagamentos de comissões
+        6.01.14 -> Fornecedores
+        6.01.14 -> Contas a pagar - partes relacionadas
+        6.01.14 -> Obrigações trabalhistas e tributos a recolher
+        6.01.14 -> Encargos Setoriais
+        6.01.14 -> Recebimento acordo judicial
+        6.01.14 -> Juros pagos sobre debêntures
+        6.01.14 -> Variação cambial líquida
+        6.01.14 -> Contas a receber
+        6.01.14 -> Outros ativos e passivos circulantes e não circulantes
+        6.01.14 -> Recebimento de acordo judicial
+        6.01.14 -> Adiantamentos a fornecedores e funcionários
+        6.01.14 -> Recebimento acordo Judicial
+        6.01.14 -> (Aumento) diminuição de ativos
+        6.01.14 -> Outras contas a pagar
+        6.01.14 -> Outras Contas a pagar
+        6.01.14 -> Outros Pagamentos e Recebimentos
+        6.01.14 -> Obrigações tributárias
+        6.01.14 -> (Redução) aumento de fornecedores
+        6.01.14 -> Outros Pagamentos e Recebimentos Líquidos
+        6.01.14 -> Outros créditos
+        6.01.14 -> Impostos e contribuições pagos
+        6.01.14 -> Pagamentos de despesas operacionais
+        6.01.14 -> Receita diferida
+        6.01.14 -> Imposto de renda e contribuição social pagos
+        6.01.14 -> Realização do diferido
+        6.01.14 -> Pagamento de Encargos da Dívida
+        6.01.14 -> Depósitos Judiciais
+        6.01.14 -> Arrendamento Operacional
+        6.01.15 -> Outras Despesas
+        6.01.15 -> Adiantamentos passivos
+        6.01.15 -> Outros ativos e passivos circulantes e não circulantes
+        6.01.15 -> Outros créditos
+        6.01.15 -> Constituição de Caução - CCEE
+        6.01.15 -> Imposto de renda e contribuição social pagos
+        6.01.15 -> Pagamentos do Imposto de renda
+        6.01.15 -> Pagamento de Arrendamento
+        6.01.15 -> Juros pagos
+        6.01.15 -> Obrigações trabalhistas
+        6.01.15 -> Outros Pagamentos
+        6.01.15 -> Juros pagos sobre debêntures
+        6.01.15 -> Provisão para demandas judiciais
+        6.01.15 -> Ganho com compra vantajosa
+        6.01.15 -> Despesas antecipadas
+        6.01.15 -> Contas a pagar - partes relacionadas
+        6.01.15 -> Obrigações tributárias e trabalhistas
+        6.01.15 -> Fornecedores
+        6.01.15 -> Venda antecipada de pacotes turísticos
+        6.01.15 -> Obrigações tributárias
+        6.01.15 -> Baixa / venda imobilizado
+        6.01.15 -> (-) Adiantamento a Fornecedores
+        6.01.15 -> Investimentos financeiros - aplicações
+        6.01.15 -> Aumento (diminuição) de passivos
+        6.01.15 -> Resgates de Depósitos Judiciais
+        6.01.15 -> Liberação de Caução CCEE
+        6.01.15 -> (Redução) aumento de obrigações tributárias, sociais e salários
+        6.01.15 -> Salários e Encargos Sociais
+        6.01.15 -> Juros pagos sobre empréstimos e financiamentos
+        6.01.15 -> Partes relacionadas
+        6.01.15 -> Juros Pagos
+        6.01.15 -> Encargos Setoriais
+        6.01.15 -> Pagamentos de despesas operacionais
+        6.01.15 -> Resgates de depósitos judiciais
+        6.01.16 -> Investimentos financeiros - vendas e resgates
+        6.01.16 -> Variação nos ativos e passivos operacionais
+        6.01.16 -> (Aumento) redução nos ativos operacionais
+        6.01.16 -> (Redução) aumento de adiantamento de clientes
+        6.01.16 -> Adiantamentos diversos
+        6.01.16 -> Salários e encargos sociais
+        6.01.16 -> Obrigações sociais e tributárias
+        6.01.16 -> Venda antecipada de pacotes turísticos
+        6.01.16 -> Baixa de provisão para demandas judiciais
+        6.01.16 -> Partes relacionadas (passivo)
+        6.01.16 -> Impostos a recolher
+        6.01.16 -> Tributos a recolher sobre vendas
+        6.01.16 -> Obrigações trabalhistas
+        6.01.16 -> Outros Pagamentos e Recebimentos Líquidos
+        6.01.16 -> Pagamentos do Imposto de renda
+        6.01.16 -> Perda esperada com crédito de liquidação duvidosa
+        6.01.16 -> Outros Pagamentos e Recebimento
+        6.01.16 -> Ganho de capital
+        6.01.16 -> Outras Despesas
+        6.01.16 -> Obrigações com poder concedente
+        6.01.16 -> Imposto de renda e contribuição social pagos
+        6.01.16 -> (-) Adiantamento a Controladas
+        6.01.16 -> Despesas antecipadas
+        6.01.16 -> Encargos financeiros sobre arrendamentos
+        6.01.16 -> Juros pagos s/ emprést, financ., arrend a pagar e arrend. p/ direito de uso
+        6.01.16 -> Juros pagos sobre empréstimos, financiamentos e debentures
+        6.01.16 -> Caixa líquido proveniente das atividades operacionais de operação descontinuada
+        6.01.16 -> Dividendos cobrados por participações em outras entidades
+        6.01.16 -> Outros Pagamentos
+        6.01.16 -> Ressarcimento de Custo de Energia - Recursos da CDE
+        6.01.17 -> Constituição de Caução CCEE
+        6.01.17 -> Impostos a recolher
+        6.01.17 -> Atualização da provisão de desmobilização
+        6.01.17 -> Outros Passivos
+        6.01.17 -> Caixa Líquido Proveniente das (Usados nas) Atividades Operacionais Descontinuadas
+        6.01.17 -> Depreciação e amortização
+        6.01.17 -> Outras obrigações e adiantamento de clientes
+        6.01.17 -> Outros fluxos de caixa de atividades operacionais
+        6.01.17 -> (-) Fornecedores de Material de Consumo
+        6.01.17 -> (Redução) aumento de parcelamento de impostos e contribuições
+        6.01.17 -> Outros Pagamentos
+        6.01.17 -> Outras obrigações e adiantamento a clientes
+        6.01.17 -> Resgates (investimentos) em títulos e valores mobiliários
+        6.01.17 -> Fornecedores e outras obrigações
+        6.01.17 -> Contas a pagar terceiros e outras
+        6.01.17 -> Apropriação do custo de captação
+        6.01.17 -> Juros pagos s/ emprést, financ. e deb., arrend a pagar e arrend. p/ direito de uso
+        6.01.17 -> Impostos parcelados
+        6.01.17 -> Rendimentos recebidos
+        6.01.17 -> Outras obrigações
+        6.01.17 -> Partes relacionadas (passivo)
+        6.01.17 -> Dividendos cobrados por participações em outras entidades
+        6.01.17 -> Aumento (redução) nos passivos operacionais
+        6.01.17 -> Salários e Encargos Sociais
+        6.01.17 -> Fornecedores, provisões sociais e outras contas a  pagar
+        6.01.18 -> (Redução) aumento de provisão p/ riscos trabalhistas , tributárias e cíveis
+        6.01.18 -> Provisão para pagamento de earn-out
+        6.01.18 -> Outras obrigações
+        6.01.18 -> Juros sobre passivo de arrendamento
+        6.01.18 -> Obrigações tributárias e sociais, impostos parcelados
+        6.01.18 -> Imposto de renda e contribuição social - pagos
+        6.01.18 -> Outras obrigações e adiantamento de clientes
+        6.01.18 -> Depreciação e amortização
+        6.01.18 -> Rendimento sobre aplicações financeiras, líquido de imposto de renda
+        6.01.18 -> Impostos a recolher
+        6.01.18 -> Imposto de renda e contribuição social pagos
+        6.01.18 -> Apropriação do custo de captação
+        6.01.18 -> Perda esperada com crédito de liquidação duvidosa
+        6.01.18 -> Resgates (investimentos) em títulos e valores mobiliários
+        6.01.18 -> Juros pagos
+        6.01.18 -> Créditos de impostos extemporâneos
+        6.01.19 -> Juros pagos sobre empréstimos e financiamentos
+        6.01.19 -> Atualização monetária desmobilização
+        6.01.19 -> (Redução) aumento de outros passivos e  impostos e contribuições a recuperar
+        6.01.19 -> Adiantamento de clientes
+        6.01.19 -> Contas a pagar terceiros e outras
+        6.01.19 -> Imposto, taxas e contribuições a recolher
+        6.01.19 -> Juros pagos
+        6.01.19 -> Parte relacionada
+        6.01.19 -> Encargos financeiros de debêntures
+        6.01.19 -> Juros recebidos de clientes
+        6.01.19 -> Floor Plan
+        6.01.19 -> Perda esperada com crédito de liquidação duvidosa
+        6.01.19 -> Impostos pagos sobre o lucro
+        6.01.20 -> Depósitos bancários vinculados
+        6.01.20 -> Atualização monetaria
+        6.01.20 -> Outros
+        6.01.20 -> Impairment de estoques e imobilizado
+        6.01.20 -> Juros pagos
+        6.01.20 -> Juros pagos sobre arrendamentos e Juros pagos empréstimos, financiamentos e debêntures
+        6.01.20 -> Adiantamento de clientes/outros
+        6.01.20 -> Juros sobre empréstimos, debêntures e financiamentos pagos
+        6.01.20 -> Juros sobre passivo de arrendamento
+        6.01.20 -> Obrigações trabalhistas e tributos a recolher
+        6.01.20 -> Outros Recebimentos
+        6.01.20 -> Salários e férias a pagar
+        6.01.20 -> Impostos pagos sobre o lucro
+        6.01.20 -> Resultado nas operações de derivativos
+    6.02 -> Caixa Líquido Atividades de Investimento
+        6.02.01 -> Adições ao imobilizado, planta portadora e intangível
+        6.02.01 -> Aquisição de imobilizado e intangível
+        6.02.01 -> Adições ao imobilizado
+        6.02.01 -> Aquisição de Investimento
+        6.02.01 -> Aquisição de imobilizado líquido
+        6.02.01 -> Compra - TVM demais categorias
+        6.02.01 -> Adições ao imobilizado, planta portadora, direito de uso e intangível
+        6.02.01 -> Aquisição de imobilizado/intangível
+        6.02.01 -> Recursos obtidos na venda de ativo imobilizado
+        6.02.01 -> Pag.invest em ativ materiais e não mat
+        6.02.01 -> Outros ingressos pelas venda de instrumentos patrimoniais ou de dívidas de outras entidades
+        6.02.01 -> Aquisição de ativo imobilizado / Intángivel
+        6.02.01 -> Recebimento de Dividendos
+        6.02.01 -> Pagamentos por compras de imobilizado e diversos
+        6.02.01 -> Adiantamento para futuro aumento de capital em controlada
+        6.02.01 -> Prejuízos Líquidos de Exercício
+        6.02.01 -> Ativo Permanente
+        6.02.01 -> (Aquisição) Alienação de imobilizado
+        6.02.01 -> Aquisição de imobilizado e intangivel
+        6.02.01 -> Aplicação em aplicações financeiras
+        6.02.01 -> Aquisição de Investimentos
+        6.02.01 -> Compra - Alicações Financeiras Demais Categorias
+        6.02.01 -> Fluxos de caixa procedentes de perdas de controle de subsidiárias ou outros negócios
+        6.02.01 -> Aquisições de bens do ativo imobilizado e intangível
+        6.02.01 -> Ativo Imobilizado
+        6.02.01 -> (Aquisição) de ativos financeiros ao valor justo por meio de outros resultados abrangentes
+        6.02.01 -> Investimentos em controladas
+        6.02.01 -> Aquisição líquida de títulos e valores mobiliários
+        6.02.01 -> Aumento de capital em controlada
+        6.02.01 -> Aumento de capital
+        6.02.01 -> Pagamento pela compra de ativo permanente - investimentos
+        6.02.01 -> Combinação de negócios
+        6.02.01 -> Ativo imobilizado
+        6.02.01 -> Compra - TVM Demais Categorias
+        6.02.01 -> Pagamento pela compra de ativo permanente - Investimentos
+        6.02.01 -> Adiantamento para futuro aumento de capital
+        6.02.01 -> Aquisição de ativo imobilizado
+        6.02.01 -> Aquisições de imobilizado
+        6.02.01 -> Aquisições de investimentos, imobilizados e intangivel
+        6.02.01 -> Aquisição de imobilizado
+        6.02.01 -> Aumentos de capital em coligadas
+        6.02.01 -> Aporte de investidas, líquida de caixa
+        6.02.01 -> Caixa Usado no Imobilizado e Investimentos
+        6.02.01 -> Aplicações financeiras
+        6.02.01 -> Fluxos de caixa procedentes da perda de controle de subsidiárias ou outros negócios
+        6.02.01 -> Aquisição de Ativos Financeiros da Concessão, Intangíveis e Imobilizados
+        6.02.01 -> Adiantamento para aquisição de controlada
+        6.02.01 -> Caixa Usado no Imobilizado, Investimentos e Intangível
+        6.02.01 -> Caixa usado no Imobilizado, Investimentos, Ativo de Contrato e Intangível
+        6.02.01 -> Compra - Aplicações Financeiras
+        6.02.01 -> Resgate de aplicação financeiras mantidas para negociação
+        6.02.01 -> Aquisição de ativo imobilizado e intangível
+        6.02.01 -> Aplicações de investimentos disponíveis para venda
+        6.02.01 -> Aquisição de Imobilizado de Uso
+        6.02.01 -> Aquisição de imobilizado, líquido
+        6.02.01 -> Aumento de capital de controladas
+        6.02.01 -> Aquisições de ativos investimentos, imobilizado e intangível
+        6.02.01 -> (Aplicação) resgate em títulos e valores mobiliários
+        6.02.01 -> Aquisição de Ativos Financeiros da Concessão, Imobilizados e Intangíveis
+        6.02.01 -> Aquisição de Imobilizado, Investimentos, Ativo de Contrato e Intangível
+        6.02.01 -> Resgate de aplicações financeiras
+        6.02.01 -> Aporte de capital em controladas
+        6.02.01 -> Aquisição de Imobilizado, Investimentos, Ativo Financeiro e Intangível
+        6.02.01 -> Empréstimos e mútuos recebidos
+        6.02.01 -> Aumento de Capital
+        6.02.01 -> Resgate de aplicações financeiras mantidas para negociação
+        6.02.01 -> Aquisições/venda de imobilizado
+        6.02.01 -> Aquisição ativo imobilizado e intangível
+        6.02.01 -> Recebimento de Empréstimos Concedidos
+        6.02.01 -> Aquisição de ativos financeiros da concessão, intangíveis e imobilizados
+        6.02.01 -> Aquisição de debêntures
+        6.02.01 -> Aquisição de Ativo Imobilizado e Intangível
+        6.02.01 -> Dividendos e JCP Pagos
+        6.02.01 -> Resgate de Aplicações Financeiras
+        6.02.01 -> Compra - Alicações Financeiras
+        6.02.02 -> Pagamento pela compra de ativo permanente - Imobilizado
+        6.02.02 -> Adiantamento para futuro aumento de capital
+        6.02.02 -> Venda e Resgates  no Vencimento - Aplicações Financeiras Demais Categorias
+        6.02.02 -> Juros recebidos de empréstimos e mútuos
+        6.02.02 -> Aquisições de controladas líquidas dos caixas adquiridos
+        6.02.02 -> Investimento em Controladas
+        6.02.02 -> Adiantamento para Futuro Aumento de Capital
+        6.02.02 -> Aquisição de imobilizado
+        6.02.02 -> Adiantamentos de importação
+        6.02.02 -> Dividendos e JCP Recebidos
+        6.02.02 -> Aplicação de conta reserva
+        6.02.02 -> Aumentos de capital em coligadas
+        6.02.02 -> Títulos e Valores Mobiliários
+        6.02.02 -> Aquisição de Investimento
+        6.02.02 -> Recebimento de redução de capital
+        6.02.02 -> Recebimento de Indenização do Ativo Financeiro de Transmissão
+        6.02.02 -> Aquisição de intangível
+        6.02.02 -> Recebimento provinientes da venda de investimentos, ativo imobilizado e intangível
+        6.02.02 -> Combinação de Negocios, Líquido de Caixa
+        6.02.02 -> (Aquisição) Alienação de imobilizado de uso
+        6.02.02 -> Combinação de Negócios, Líquido de Caixa
+        6.02.02 -> Outros
+        6.02.02 -> Recebimentos provenientes da venda de investimentos, ativo imobilizado e intangível
+        6.02.02 -> Resgate (aplicação) em Títulos e Valores Mobiliários
+        6.02.02 -> Recursos obtidos na venda de investimentos e ativos fixos
+        6.02.02 -> Adições ao ativo imobilizado e intangível
+        6.02.02 -> Títulos e valores mobiliários
+        6.02.02 -> Aquisição de Bens do Ativo Imobilizado
+        6.02.02 -> Aquisição de bens do ativo imobilizado e de itens do intangível
+        6.02.02 -> Ativo Intangível
+        6.02.02 -> (Aquisição) de imobilizado
+        6.02.02 -> Alienação de Imóveis
+        6.02.02 -> Venda e Vencimento - Aplicações Financeiras Demais Categorias
+        6.02.02 -> Ativo intangível
+        6.02.02 -> Aquisição de imobilização e intnagivel
+        6.02.02 -> Aplicação financeira
+        6.02.02 -> Pagamento pela compra de ativo permanente - imobilizado
+        6.02.02 -> Aquisição de Imobilizado
+        6.02.02 -> Aporte de investidas, líquida de caixa
+        6.02.02 -> Recebimento de empréstimo, financiamentos e debêntures
+        6.02.02 -> Adições ao imobilizado
+        6.02.02 -> Recebimento pela venda de imobilizado
+        6.02.02 -> Recebimentos por vendas de imobilizado e diversos
+        6.02.02 -> Recebimento de empréstimos concedidos a partes relacionadas
+        6.02.02 -> Compra de ativo imobilizado
+        6.02.02 -> Amortização de Empréstimos
+        6.02.02 -> Recebimento de Alienação de Participação Societária
+        6.02.02 -> Operações com partes relacionadas
+        6.02.02 -> Aquisição de controlada - líquido do caixa e equivalente de caixa
+        6.02.02 -> Recebimento de Dividendos
+        6.02.02 -> Venda e Resgates  no Vencimento - Aplicações Financeiras
+        6.02.02 -> Valor recebido da venda de imobilizado
+        6.02.02 -> Investimentos Realizados
+        6.02.02 -> Adições ao ativo imobilizado
+        6.02.02 -> Cauções - Licitações
+        6.02.02 -> (Aquisição) de Imobilizado de uso
+        6.02.02 -> Alienação de Imobilizado
+        6.02.02 -> Resgates líquidos no vencimento de aplicações financeiras
+        6.02.02 -> Aumento de capital em investidas
+        6.02.02 -> Aquisição de ativo imobilizado
+        6.02.02 -> Valores procedentes de venda de imobilizado
+        6.02.02 -> Vendas e resgates de investimentos disponíveis para venda
+        6.02.02 -> Dividendos recebidos
+        6.02.02 -> Recebimento de Juros sobre Empréstimos Concedidos
+        6.02.02 -> Aquisição de Participação Societária
+        6.02.02 -> Adições de ativo biológico
+        6.02.02 -> Aquisição de Ativos Financeiros da Concessão, Intangíveis e Imobilizados
+        6.02.02 -> Caixa restrito
+        6.02.02 -> Baixa de imobilizado
+        6.02.02 -> Ganho na venda de ativo imobilizado
+        6.02.02 -> Venda e Vencimento - TVM Demais Categorias
+        6.02.02 -> Fluxos de caixa utilizados para obtenção do controle de subsidiárias ou outros negócios
+        6.02.02 -> Dividendo recebido de coligada
+        6.02.02 -> Venda e Maturidade - TVM demais categorias
+        6.02.02 -> Recebimento de alienações de ativos
+        6.02.02 -> Venda e Vencimento - Aplicações Financeiras
+        6.02.03 -> Fluxos de caixa utilizados na compra de participações de não controladores
+        6.02.03 -> Rendimentos aplicações financeiras
+        6.02.03 -> (Aquisição) do Intangivel
+        6.02.03 -> Alienação de Ativo Imobilizado
+        6.02.03 -> Adiantamento para futuro aumento de capital
+        6.02.03 -> Compra de ativo intangível
+        6.02.03 -> Acréscimo de imobilizado
+        6.02.03 -> Recebimento de Alienação de Participação Societária
+        6.02.03 -> Depósitos judiciais
+        6.02.03 -> Alienação de imóveis
+        6.02.03 -> Aquisição de Investimentos
+        6.02.03 -> (Aquisição) Alienação de intangível
+        6.02.03 -> Alienação de Imobilizado
+        6.02.03 -> Juros e proventos similares
+        6.02.03 -> Aquisição de imobilizado e intangível
+        6.02.03 -> Caixa restrito
+        6.02.03 -> Recebimento de Indenização do Ativo Financeiro de Transmissão
+        6.02.03 -> Recebimento de Dividendos
+        6.02.03 -> Recebimento de Alienação de Imóveis
+        6.02.03 -> Pagamento pela compra de ativo permanente - intangível
+        6.02.03 -> Aquisição de outros ativos
+        6.02.03 -> Aplicações financeiras
+        6.02.03 -> Aquisição de Imobilizado
+        6.02.03 -> Depósitos e Resgates Judiciais
+        6.02.03 -> Aplicações Financeiras
+        6.02.03 -> Dividendos recebidos
+        6.02.03 -> Aumento de capital em controladas
+        6.02.03 -> Adições ao intangível
+        6.02.03 -> Devolução de Recursos Estado de Goiás
+        6.02.03 -> Aplicações de investimentos mantidos até o vencimento
+        6.02.03 -> Outros
+        6.02.03 -> Pagamento pela compra de ativo permanente - Intangível
+        6.02.03 -> Pagamentos e recebimentos de empréstimos a partesrelacionadas
+        6.02.03 -> Resgates Caixa Restrito
+        6.02.03 -> Recebimentos por Vendas de Ativo Imobilizado
+        6.02.03 -> Pagamentos e recebimentos de empréstimos a partes relacionadas
+        6.02.03 -> Aplicações financeiras - caixa restrito
+        6.02.03 -> Adições ao Intangível (Pagamentos)
+        6.02.03 -> Investimento em controlada
+        6.02.03 -> Dividendos de controladas pagos após combinação de negócio
+        6.02.03 -> Aquisição de intangível
+        6.02.03 -> Pagamentos líquidos de investim. finan
+        6.02.03 -> Dividendos e juros sobre capital próprio recebidos
+        6.02.03 -> Aquisição de imobilizado
+        6.02.03 -> Investimento em aplicações financeiras
+        6.02.03 -> Adições ao Intangível e Bens do Ativo Imobilizado
+        6.02.03 -> Aquisição de Imobilizado e Intangível
+        6.02.03 -> Recebimento de investimentos mantidos até o vencimento
+        6.02.03 -> Aquisição Imobilizado
+        6.02.03 -> Resgates de investimentos mantidos até o vencimento
+        6.02.03 -> Aquisição de ativo imobilizado
+        6.02.03 -> Juros e proveitos similares
+        6.02.03 -> Adições ao imobilizado e intangível
+        6.02.03 -> Valor recebido pela venda de imobilizado
+        6.02.03 -> Recebimento de dividendos e JSCP
+        6.02.03 -> Aquisição de negócios
+        6.02.03 -> Adiantamento para Futuro Aumento de Capital
+        6.02.03 -> Compras de imobilizado
+        6.02.03 -> Investimento líquido em aplicações financeiras
+        6.02.04 -> Pagamento pela compra de Investimentos
+        6.02.04 -> Recebimento de Indenização do Ativo Financeiro de Transmissão
+        6.02.04 -> Indenização do Ativo Financeiro de Transmissão
+        6.02.04 -> Aquisição de Intangível
+        6.02.04 -> Aquisição de propriedades  para investimento
+        6.02.04 -> Ativo de direito de uso
+        6.02.04 -> Aquisição de Investimentos
+        6.02.04 -> Outros Ingressos pela venda de instrumentos patrimoniais ou de dívida de outras entidades
+        6.02.04 -> Aumento de capital em controladas
+        6.02.04 -> Caixa líquido de aquisição e venda de investimentos em coligadas e controladas
+        6.02.04 -> Investimento líquido em aplicações financeiras
+        6.02.04 -> Recebimento de Dividendos
+        6.02.04 -> Empréstimos e Adiantamentos Realizados a  Partes Relacionadas
+        6.02.04 -> Cauções - Licitações
+        6.02.04 -> Venda de imobilizado
+        6.02.04 -> Adiantamento para Futuro Aumento de Capital
+        6.02.04 -> Caixa e equivalentes incorporados em participação societária
+        6.02.04 -> Recebimento de Dividendos de Investidas
+        6.02.04 -> (Aquisição) de ativos de óleo e gás
+        6.02.04 -> Devolução de Recursos Estado de Goiás
+        6.02.04 -> Resgates Caixa restrito
+        6.02.04 -> Resgate em Títulos e valores mobiliários
+        6.02.04 -> Compra e Venda - Participações Societarias
+        6.02.04 -> Concessão de Empréstimos
+        6.02.04 -> Aquisição de ativo intangível
+        6.02.04 -> Aquisição de intangível
+        6.02.04 -> Outros ingressos pela venda de instrumentos patrimoniais ou de dívida de outras entidades
+        6.02.04 -> Dividendos recebidos
+        6.02.04 -> Aplicação em Títulos e valores mobiliários
+        6.02.04 -> Aquisição de imobilizado e ativo de contrato
+        6.02.04 -> Vendas e resgates de investimentos mantidos até o vencimento
+        6.02.04 -> Aplicações financeiras
+        6.02.04 -> Outros
+        6.02.04 -> Valor recebido da venda de imobilizado
+        6.02.04 -> Resgate e Aplicação em títulos e valores mobiliários
+        6.02.04 -> Adições do intangível
+        6.02.04 -> Aquisição de outros ativos
+        6.02.04 -> (Adição) Alienação de Investimentos
+        6.02.04 -> (Aquisição) / Alienação de propriedade para investimento
+        6.02.04 -> Resgate de (investimento em) aplicações financeiras
+        6.02.04 -> Resgate de conta reserva
+        6.02.04 -> Aquisição de controlada, líquido de caixa adquirido
+        6.02.04 -> Recebimento de investimentos mantidos até o vencimento
+        6.02.04 -> Compras de ativos intangíveis
+        6.02.04 -> Pagamento para aquisição de controlada
+        6.02.04 -> Dividendos recebidos de controladas
+        6.02.04 -> Outras atividades de investimento
+        6.02.04 -> Dividendos e bonificações de ações
+        6.02.04 -> Outras atividades de Investimentos
+        6.02.04 -> Resgates de depósitos judiciais
+        6.02.04 -> Aquisição de empresas, líquido de caixa
+        6.02.04 -> Dividendos e bonificações de ações recebidos
+        6.02.04 -> Recebimento pela venda de ativo permanente - investimentos
+        6.02.04 -> Aumento de capital em coligadas
+        6.02.04 -> Mutuos concecido a parte relacionada
+        6.02.04 -> Integralização de capital em controlada
+        6.02.04 -> Outros ingressos pela venda de instrumentos patrimoniais ou de dividas de outras entidades
+        6.02.04 -> Compra e Venda de Participações Societárias
+        6.02.05 -> Pagamentos pela compra de ativo permanente - Imobilizado
+        6.02.05 -> Aquisição/alienação de investimentos
+        6.02.05 -> Aplicação em conta reserva
+        6.02.05 -> Rendimento de aplicações financeiras
+        6.02.05 -> Alienação de Intangível
+        6.02.05 -> Aquisição de Participações Societárias
+        6.02.05 -> Caixa de empresa incorporada
+        6.02.05 -> Dividendos
+        6.02.05 -> Recebimento de Alienação de Participação Societária
+        6.02.05 -> Caixa oriundo de combinação de negócios
+        6.02.05 -> Aquisição de investimento - Bluestone Resources
+        6.02.05 -> Aquisição de participação em controlada
+        6.02.05 -> Aquisição de propriedades  para investimento
+        6.02.05 -> Aquisição de Controladas
+        6.02.05 -> Aumento de capital em controladas
+        6.02.05 -> Adiantamento para futuro aumento de capital
+        6.02.05 -> Adiantamento para Futuro Aumento de Capital
+        6.02.05 -> Recebimento de Dividendos
+        6.02.05 -> Investimento em títulos, valores mobiliários e aplicações financeiras
+        6.02.05 -> Capitalização de juros - CPC 20
+        6.02.05 -> Aquisição de direito de uso
+        6.02.05 -> Alienação de imobilizado
+        6.02.05 -> Resgate de Títulos e valores mobiliários
+        6.02.05 -> Aquisição de investimento
+        6.02.05 -> Outros pagamentos para adquirir instrumentos patrimoniais ou de dívida de outras entidades
+        6.02.05 -> Dividendos recebidos no período
+        6.02.05 -> Compra e Venda de Ativos Imobilizados
+        6.02.05 -> Compra e Venda - Ativo Imobilizado
+        6.02.05 -> Compra e Venda de Ativos Imobilizados e Intangíveis
+        6.02.05 -> Pagamento pela compra de ativo permanente - Imobilizado
+        6.02.05 -> Outros recebimentos e/ou pagamentos
+        6.02.05 -> Integralização de capital social por meio de AFAC
+        6.02.05 -> Outros pagamentos para adquirir instrumentos patrimoniais ou de divida de outras entidades
+        6.02.05 -> Aplicações Financeiras
+        6.02.05 -> Aumento de capital social em controlada
+        6.02.05 -> Investimentos cisão Rio
+        6.02.05 -> Compra de Ativos Imobilizados e Intangíveis
+        6.02.05 -> Recebimento de Indenização do Ativo Financeiro de Transmissão
+        6.02.05 -> Incorporação de controlada
+        6.02.05 -> Recebimentos pela venda de ativo permanente - imobilizado
+        6.02.05 -> Aquisição de intangíveis
+        6.02.05 -> Restituição de Capital a Acionistas
+        6.02.05 -> Outras entradas (saídas) de caixa
+        6.02.05 -> Dividendos recebidos de controladas e coligadas
+        6.02.05 -> Aquisição de propriedades para investimento
+        6.02.05 -> AFAC em Investidas
+        6.02.05 -> Aquisição/ alienação de investimentos
+        6.02.05 -> Infraestrutura da transmissão - ativo contratual
+        6.02.05 -> Compra de Ativos Imobilizados
+        6.02.05 -> Aumento/Redução de capital em controladas
+        6.02.05 -> Pagamento pela compra de Imobilizado
+        6.02.05 -> Integralização de Capital em Subsidiária
+        6.02.05 -> Alienação de Investimentos
+        6.02.06 -> Aquisição de empresas, líquido de caixa no consolidado
+        6.02.06 -> Outros investimentos
+        6.02.06 -> Valores procedentes da venta de imobilizado
+        6.02.06 -> Aportes/Aumento de Capital em Coligadas e Controladas
+        6.02.06 -> Aquisição de investimento Jaíba V Holding S.A
+        6.02.06 -> Valores procedentes de vdna de imobilizado
+        6.02.06 -> Impostos e Contribuições
+        6.02.06 -> Aquisição de Investimentos
+        6.02.06 -> Adiantamentos para Futuro Aumento de Capital - Investidas
+        6.02.06 -> Baixa de investimentos
+        6.02.06 -> Aquisição de Ativo de Contrato e Imobilizado
+        6.02.06 -> Aquisição/Alienação de investimentos em coligadas e controladas
+        6.02.06 -> Pagamento de Dividendos
+        6.02.06 -> Recebimento de Dividendos
+        6.02.06 -> Valores procedentes de outros ativos longo prazo
+        6.02.06 -> Outros
+        6.02.06 -> Aquisição de controladas, líquido de caixa adquirido
+        6.02.06 -> Recompra de ações
+        6.02.06 -> (Aquisição)/Alienação de investimentos em coligadas, controladas e outros
+        6.02.06 -> Resgate em aplicações financeiras
+        6.02.06 -> Valores procedentes da venda de imobilizado
+        6.02.06 -> Concessão de Empréstimos
+        6.02.06 -> Aplicações financeiras mantidas para negociação
+        6.02.06 -> Pagamento pela compra de Intangível
+        6.02.06 -> Créditos em Controlada e Subsidiária
+        6.02.06 -> Aquisição de intangíveis
+        6.02.06 -> Recursos líquidos provenientes das atividades de investimento de operações descontinuadas
+        6.02.06 -> Aquisição de controlada
+        6.02.06 -> Baixas de ativo imobilizado
+        6.02.06 -> Aquisição/aporte de capital em participação societária
+        6.02.06 -> Integralização de Capital em Subsidiária
+        6.02.06 -> Compra de ativo imobilizado
+        6.02.06 -> Títulos e valores mobiliários
+        6.02.06 -> Aplicações financeiras mantidas negociação
+        6.02.06 -> Aplicações financeiras
+        6.02.06 -> Alienação de intangível
+        6.02.06 -> Resgate em Títulos e valores mobiliários
+        6.02.06 -> Venda de imobilizado e intangíveis
+        6.02.06 -> Valores procedentes de venda de imobilizado
+        6.02.06 -> Venda de Ativos Imobilizados e Intangíveis
+        6.02.06 -> Pagamento pela compra de ativo permanente - Intangível
+        6.02.07 -> Aquisição de Intangível
+        6.02.07 -> Venda de imobilizado
+        6.02.07 -> Recebimento pela venda - Imobilizado
+        6.02.07 -> Ativos Financeiros ao valor justo por meio de outros resultados abrangentes (VJORA)
+        6.02.07 -> Compras de Imobilizado
+        6.02.07 -> Créditos e Dívidas com Pessoas Ligadas
+        6.02.07 -> Compras de imobilizado
+        6.02.07 -> Pagamento de Dividendos
+        6.02.07 -> Aquisição de Ativo de Contrato e Imobilizado
+        6.02.07 -> Outros pagamentos para adquirir instrumentos patrimoniais ou de dívida de outras entidades
+        6.02.07 -> Depósito em garantia/judicial
+        6.02.07 -> Compra de ações a termo
+        6.02.07 -> Aquisição de participação em coligadas
+        6.02.07 -> Compra de ativo intangível
+        6.02.07 -> Aumento de capital em investidas
+        6.02.07 -> Recebimento pela Venda - Imobilizado
+        6.02.07 -> Venda de imobilizado e intangíveis
+        6.02.07 -> Concessão de adiantamento para futuro aumento de capital
+        6.02.07 -> Recebimento de vendas de ativos
+        6.02.07 -> Aquisição de Controladas
+        6.02.07 -> Encargos Setoriais
+        6.02.07 -> Adiantamento para futuro aumento de capital
+        6.02.07 -> Outros
+        6.02.07 -> Pagamento pela compra de Arrendamento Mercantil
+        6.02.07 -> Investimentos financeiros
+        6.02.07 -> Aquisição/venda de imobilizado
+        6.02.07 -> Investimentos Financeiros
+        6.02.07 -> Aquisição de Ativos Financeiros ao Valor Justo por meio do Resultado
+        6.02.07 -> Dividendos recebidos
+        6.02.07 -> Caixa Líquido Proveniente das (Usado nas) Atividades de Investimento da operação descontinuada
+        6.02.08 -> Recebimento de dividendos e juros sobre capital próprio
+        6.02.08 -> Outros Fluxos de Investimento
+        6.02.08 -> Aquisições de imobilizado
+        6.02.08 -> Aquisição de Intangível
+        6.02.08 -> Outras Despesas
+        6.02.08 -> Alienação de investimentos em participações societárias
+        6.02.08 -> Aumento de capital em investidas
+        6.02.08 -> Reorganização societária de controladas
+        6.02.08 -> Pagamentos provenientes da venda de investimentos, ativo imobilizado e intangível
+        6.02.08 -> Venda de participação societária
+        6.02.08 -> (Aquisição) de outros investimentos
+        6.02.08 -> Dividendos - Participações societárias
+        6.02.08 -> Compras de ativos intangíveis
+        6.02.08 -> Recebimento pela venda de Investimentos
+        6.02.08 -> Alienação de Ativos Financeiros ao Valor Justo por meio do Resultado
+        6.02.08 -> Recebimento pela Venda -  Investimentos
+        6.02.08 -> Alienação de Imobilizado e Investimentos
+        6.02.08 -> Pagamentos referentes a compra de investimentos, ativo imobilizado e intangível
+        6.02.08 -> Dividendos recebidos
+        6.02.09 -> (Compra) venda de ações da própria Companhia
+        6.02.09 -> Recebimento pela venda de Imobilizado
+        6.02.09 -> Aquisições de intangível
+        6.02.09 -> Aquisição de Ativos Financeiros ao Valor Justo por meio de Outros Resultados Abrangentes
+        6.02.09 -> Aplicações Financeiras Líquidas - TVM
+        6.02.09 -> Créditos com partes relacionadas - Captações
+        6.02.09 -> Outros Fluxos de Investimento
+        6.02.09 -> Fluxos de caixa utilizados para obtenção do controle de subsidiárias ou outros negócios
+        6.02.09 -> Outras atividades de investimento
+        6.02.09 -> Dividendos recebidos
+        6.02.09 -> Pagamento pela compra de ativo permanente - Investimentos
+        6.02.09 -> Caixa incluído pela incorporação da Votorantim Geração de Energia
+        6.02.10 -> Juros recebidos
+        6.02.10 -> Caixa e equivalentes de caixa transferidos para ativos mantidos à venda
+        6.02.10 -> Caixa incluído por empresa adquirida incluída na consolidação
+        6.02.10 -> Pagamento de arrendamento mercantil
+        6.02.10 -> Alienação de Ativos Financeiros ao Valor Justo por meio de Outros Resultados Abrangentes
+        6.02.10 -> Recebimento de encargos - TVM
+        6.02.10 -> (Aumento) redução de capital em participações acionárias
+        6.02.11 -> Outras atividades de investimento
+        6.02.11 -> Outras entradas (saídas) de caixa
+        6.02.11 -> Aquisição líquida de ativo imobilizado de subsidiárias
+        6.02.11 -> Outras atividades de investimentos
+        6.02.11 -> (Aumento) redução via incorporação de ativos
+        6.02.11 -> Caixa restrito
+        6.02.11 -> Recebimento pela venda - Investimento
+        6.02.12 -> Redução - Participações societárias
+        6.02.12 -> Venda de ativos intangíveis
+        6.02.12 -> (Aplicação) Resgate em Fundo de Abandono
+        6.02.12 -> Aquisição líquida de Intangível de subsidiárias
+        6.02.12 -> Caixa líquido na combinação de negócios
+        6.02.13 -> (Aquisição) de ativos de óleo e gás
+        6.02.13 -> Valores procedentes de outros ativos de longo prazo
+        6.02.13 -> Caixa líquido proveniente das (usado nas) atividades de investimento das operações descontinuadas
+        6.02.13 -> Valores procedentes de outros ativos longo prazo
+        6.02.13 -> Aumento de Capital
+        6.02.14 -> Outros
+        6.02.15 -> Recebimento de encargos financeiros
+        6.02.16 -> Caixa líquido da incorporação de controlada
+        6.02.20 -> Outros
+    6.03 -> Caixa Líquido Atividades de Financiamento
+        6.03.01 -> Pagamentos de arrendamentos - principal e juros
+        6.03.01 -> Aumento (Redução) em Recursos de Aceites Cambiais e Emissão de Títulos
+        6.03.01 -> Debêntures conversíveis em ações
+        6.03.01 -> Captação de financiamentos bancários
+        6.03.01 -> Impréstimos - Partes Relacionadas
+        6.03.01 -> Recebimento de ativos financeiros
+        6.03.01 -> Pagamento de Empréstimos Contraídos
+        6.03.01 -> Pagamento de dividendos e outras oper c/minoritários
+        6.03.01 -> Empréstimos e financiamentos
+        6.03.01 -> Captações de empréstimos, financiamentos e debêntures
+        6.03.01 -> Empréstimos e financiamentos pagos
+        6.03.01 -> Pagamento de Empréstimos
+        6.03.01 -> Adições ao imobilizado, planta portadora, direito de uso e intangível
+        6.03.01 -> Mútuos com partes relacionadas - Captações
+        6.03.01 -> Resultado não Operacional Líquido
+        6.03.01 -> Empréstimos e Financiamentos Obtidos
+        6.03.01 -> Distribuição de dividendos
+        6.03.01 -> Aumento de capital social
+        6.03.01 -> Pagamento de Dividendos e Juros sobre Capital Próprio
+        6.03.01 -> Aumento de capital
+        6.03.01 -> (Pagamento de capital) Financiamentos recebidos de entidades financeiras
+        6.03.01 -> Captação de empréstimos e instrumentos de dívida
+        6.03.01 -> Recebimento de outros ativos
+        6.03.01 -> Obtenção de empréstimos
+        6.03.01 -> Mútuo com partes relacionadas
+        6.03.01 -> Captação de Empréstimos e Financiamento
+        6.03.01 -> Dividendos a Juros sobre Capital Próprio Pagos
+        6.03.01 -> Adição de debêntutes
+        6.03.01 -> Captação de empréstimos e financiamentos
+        6.03.01 -> Dividendos e juros sobre o capital próprio pagos, líquidos
+        6.03.01 -> Captações de empréstimos líquidas de custos
+        6.03.01 -> Outros Resultados
+        6.03.01 -> Pagamento pela aquisição da empresa
+        6.03.01 -> Captação de recursos
+        6.03.01 -> Arrendamentos pagos
+        6.03.01 -> Pagamento pela aquisição da empresa em exercícios anteriores
+        6.03.01 -> Pagamento de arrendamentos
+        6.03.01 -> Dividendos pagos
+        6.03.01 -> Liquidaçãode arrendamento
+        6.03.01 -> Emissão de Debêntures
+        6.03.01 -> Captação de empréstimos,  financiamentos e debêntures
+        6.03.01 -> Empréstimos e financiamentos e debêntures - captações
+        6.03.01 -> Captação de empréstimos, financiamentos e debêntures
+        6.03.01 -> Captação de Empréstimos e Financiamentos
+        6.03.01 -> Captação de empréstimos, financiamentos e debentures
+        6.03.01 -> Captações de empréstimos
+        6.03.01 -> Pagamentos de empréstimos e arrendamentos
+        6.03.01 -> Captação líquidas de custos
+        6.03.01 -> Empréstimos e financiamentos - líquido
+        6.03.01 -> Pagamentos de juros e outros
+        6.03.01 -> Pagamento de dívidas com acionistas
+        6.03.01 -> Pagamento de dívida com acionistas
+        6.03.01 -> Empréstimos e Linhas de Créditos
+        6.03.01 -> Empréstimos, financiamentos e debêntures obtidos
+        6.03.01 -> Aquisição de Debentures
+        6.03.01 -> Pagamento de dividendos
+        6.03.01 -> Aumento de Capital
+        6.03.01 -> Financiamentos liquidos recebidos de entidades financeiras
+        6.03.01 -> Partes relacionadas
+        6.03.01 -> Dividendos / Juros Acionistas
+        6.03.01 -> Financiamentos recebidos de entidades financeiras
+        6.03.01 -> Dividendos e Juros sobre Capital Próprio Pagos
+        6.03.01 -> Pagamento de Serviço da Dívida
+        6.03.01 -> Adiantamentos para Futuro Aumento de Capital
+        6.03.01 -> Financiamentos / (Pagamentos de capital) recebidos de entidades financeiras
+        6.03.01 -> Pagamento de financiamento
+        6.03.01 -> Aquisição de empréstimos e financiamentos
+        6.03.01 -> (Pagamentos de capital) / Financiamentos recebidos de entidades financeiras
+        6.03.01 -> Empréstimos obtidos
+        6.03.01 -> Variação de partes relacionadas
+        6.03.01 -> Captações de Empréstimos
+        6.03.01 -> Custo de captação
+        6.03.01 -> Pagamentos de Serviço da Dívida
+        6.03.01 -> Valores procedentes de empréstimos de longo prazo
+        6.03.01 -> Aporte de capital de acionistas
+        6.03.01 -> Outros Resultados Líquidos
+        6.03.02 -> Dividendos obrigatórios pagos
+        6.03.02 -> Pagamento de Juros sobre Empréstimos Contraídos
+        6.03.02 -> (Pagamentos) de passivos financeiros
+        6.03.02 -> Pagamento de principal - empréstimos, financiamentos e debentures
+        6.03.02 -> Recebimento de Empréstimos Concedidos - Coligada
+        6.03.02 -> Pagamento de empréstimos,  financiamentos e debêntures
+        6.03.02 -> Aquisição de outros instrumentos financeiros
+        6.03.02 -> Empréstimos e Financiamentos
+        6.03.02 -> Captação de recursos
+        6.03.02 -> Empréstimos e Financiamentos Obtidos
+        6.03.02 -> Mútuos com partes relacionadas - Amortizações
+        6.03.02 -> Empréstimos e Financiamentos Capitados
+        6.03.02 -> Amortizações pagas de arrendamento
+        6.03.02 -> Pag/captações líquidas de empréstimos e financiamentos
+        6.03.02 -> Valor recebido pelo exercício de opções de ações
+        6.03.02 -> Recebimento de Mútuo - Anterior Coligada
+        6.03.02 -> Dividendos e juros sobre o capital próprio distribuídos
+        6.03.02 -> Pagamento de serviço da dívida
+        6.03.02 -> Gastos com emissão de ações
+        6.03.02 -> Captação de empréstimos e financiamentos e debêntures
+        6.03.02 -> Empréstimos Obtidos
+        6.03.02 -> Aumentos de capital e prêmios de emissão
+        6.03.02 -> Variação de empréstimos e financiamentos
+        6.03.02 -> Outras transações de capital
+        6.03.02 -> Pagamento de Empréstimos e Financiamentos
+        6.03.02 -> Aumento (Redução) em Obrigações por Empréstimos e Repasses
+        6.03.02 -> Pagamento de Serviço da Dívida
+        6.03.02 -> Pagamento de debêntures
+        6.03.02 -> Distribuição de dividendos e juros sobre o capital próprio
+        6.03.02 -> Captação de Empréstimos e Financiamentos
+        6.03.02 -> Pagamentos de dividendos
+        6.03.02 -> Redução de capital
+        6.03.02 -> Juros pagos de empréstimos e financiamentos
+        6.03.02 -> Redução de Capital
+        6.03.02 -> Recebimento de Derivativos
+        6.03.02 -> Aumento (Redução) em obrigações por dívidas subordinadas
+        6.03.02 -> Aumento de capital
+        6.03.02 -> Amortização de Empréstimos e Financiamentos
+        6.03.02 -> Debêntures - Captação
+        6.03.02 -> Pagamento de empréstimos e financiamentos
+        6.03.02 -> Juros pagos
+        6.03.02 -> Pagamento de contraprestações
+        6.03.02 -> Pagamento de principal de empréstimos e Financiamentos
+        6.03.02 -> Participação de acionistas não controladores
+        6.03.02 -> Aumento de capital social
+        6.03.02 -> Dividendos e Juros s/Capital Próprio
+        6.03.02 -> Empréstimos e financiamentos captados
+        6.03.02 -> Pagamento de empréstimos e arrendamento mercantil
+        6.03.02 -> Recebimentos de instrumentos financeiros derivativos e outros passivos com terceiros
+        6.03.02 -> Custo de captação
+        6.03.02 -> Dividendos pagos
+        6.03.02 -> Captações (pagamentos) de passivos financeiros
+        6.03.02 -> Liquidação de empréstimos e financiamentos
+        6.03.02 -> Aporte de capital
+        6.03.02 -> Dividendos e Juros sobre Capital Próprio Pagos
+        6.03.02 -> Pagamentos de arrendamento
+        6.03.02 -> Pagamento de emprestimos
+        6.03.02 -> Pagamento de arrendamento
+        6.03.02 -> Pagamento de derivativos contratados
+        6.03.02 -> Pagamento de empréstimos, financiamentos e debêntures - principal
+        6.03.02 -> Pago de juros por financiamentos recebidos de entidades financeiras
+        6.03.02 -> Pagamentos de empréstimos
+        6.03.02 -> Amortização de Empréstimos
+        6.03.02 -> Aplicações financeiras
+        6.03.02 -> Amortização de debêntures
+        6.03.02 -> Pagamento de empréstimos
+        6.03.02 -> Aumento de capital - oferta pública
+        6.03.02 -> Custo de captação de empréstimos e financiamentos
+        6.03.02 -> Aquisições líquida de ações em tesouraria
+        6.03.02 -> Pagamento de Arrendamento
+        6.03.02 -> Pagamento a partes relacioandas
+        6.03.02 -> Captação de Debêntures
+        6.03.02 -> Captação de debêntures
+        6.03.02 -> Compra de opções - Pagamentos Baseados em Ações
+        6.03.03 -> Aumento de Capital
+        6.03.03 -> Dividendos e Juros Sobre Capital Próprio Pagos
+        6.03.03 -> Empréstimos Obtidos
+        6.03.03 -> Custo de Transação
+        6.03.03 -> Pagamento e remuneração aos acionistas
+        6.03.03 -> Pagamentos de empréstimos, financiamentos e debêntures
+        6.03.03 -> Afac- Adiantamento Futuro Aumento de Capital
+        6.03.03 -> Pagamento de empréstimos e debêntures
+        6.03.03 -> Contratação de empréstimos e financiamentos
+        6.03.03 -> Emissão de instrumento de dívida
+        6.03.03 -> Pagamentos de passivos de arrendamentos financeiros
+        6.03.03 -> Aumento (Redução) Dívidas subordinadas
+        6.03.03 -> Parte relacionadas
+        6.03.03 -> Emissão / Resgate de debêntures
+        6.03.03 -> Empréstimos e Financiamentos Obtidos
+        6.03.03 -> Aquisição das ações próprias
+        6.03.03 -> Emissão de debêntures
+        6.03.03 -> Amoritização de Empréstimos e Financiamentos
+        6.03.03 -> Pagamento de principal
+        6.03.03 -> Adiantamentos para Futuro Aumento de Capital
+        6.03.03 -> Recebimento de adiantamento para futuro aumento de capital
+        6.03.03 -> Pagamento de Arrendamento
+        6.03.03 -> Aplicação financeira
+        6.03.03 -> Emissão / (Pagamento) de debêntures
+        6.03.03 -> Dividendos Pagos
+        6.03.03 -> Capitação de Recursos
+        6.03.03 -> AFAC
+        6.03.03 -> Captação de empréstimos e financiamentos
+        6.03.03 -> Aumento/Redução de Capital
+        6.03.03 -> Subsídios
+        6.03.03 -> Captação de floor plan
+        6.03.03 -> Venda (Aquisição) de ações em tesouraria
+        6.03.03 -> Programa de refinanciamento fiscal
+        6.03.03 -> Pagamento de empréstimos de curto prazo
+        6.03.03 -> Partes relacionadas
+        6.03.03 -> Venda (Recompra) de Ações da Tesouraria
+        6.03.03 -> Pagamento de Financiamento, Arrendamentos por Direito de Uso e Financeiros (principal e juros)
+        6.03.03 -> Juros sobre empréstimos pagos
+        6.03.03 -> Dividendos e Juros sobre Capital Próprio Pagos
+        6.03.03 -> Gastos e Rendimentos na Emissão de Debêntures
+        6.03.03 -> Adiantamento para futuro aumento de capital
+        6.03.03 -> Pagamento de Serviço da Dívida
+        6.03.03 -> Pagamento de arrendamento mercantil
+        6.03.03 -> Pagamento de principal - empréstimos e financiamentos
+        6.03.03 -> Empréstimos, financiamentos e debêntures - Captações
+        6.03.03 -> Captação de Recursos
+        6.03.03 -> Pagamento de empréstimos
+        6.03.03 -> Aplicações Financeiras - Reserva Debêntures
+        6.03.03 -> Aumento (Redução) em Dívidas Subordinadas
+        6.03.03 -> Pagamentos de Encargos Financeiros
+        6.03.03 -> Pagamento de dividendos
+        6.03.03 -> Operações com derivativos
+        6.03.03 -> Captação de floorplan
+        6.03.03 -> Recebimento de mútuo - anterior coligada
+        6.03.03 -> Recebimento (pagamento) por opção de compra de taxa IDI
+        6.03.03 -> Custo de transação de antecipação de recebíveis
+        6.03.03 -> Pagamento de arrendamento
+        6.03.03 -> Pagamentos Arrecadamento Mercantil
+        6.03.03 -> Redução de capital social
+        6.03.03 -> Aumento de capital
+        6.03.03 -> Outros
+        6.03.03 -> Amortização de Empréstimos e Financiamentos
+        6.03.03 -> Captações de empréstimos e financiamentos
+        6.03.03 -> Valor recebido pelo exercício de opções de ações
+        6.03.03 -> Empréstimos e financiamentos pagos
+        6.03.03 -> Custo da captação de recursos
+        6.03.03 -> Liquidação de empréstimos e financiamentos
+        6.03.04 -> Captação de empréstimos, financiamentos e debêntures
+        6.03.04 -> Redução de capital
+        6.03.04 -> Recompra de ações
+        6.03.04 -> Acréscimo de arrendamentos
+        6.03.04 -> Integralização de capital
+        6.03.04 -> Adiantamento para futuro aumento de capital
+        6.03.04 -> Juros sobre o capital próprio pagos
+        6.03.04 -> Pagamento de Empréstimos
+        6.03.04 -> Juros sobre Capital Próprio/Dividendos pagos
+        6.03.04 -> Pagamento de principal de empréstimos e financiamentos
+        6.03.04 -> Captação de arrendamento financeiro
+        6.03.04 -> Aporte de capital
+        6.03.04 -> Custo de Transação
+        6.03.04 -> Pagamento de empréstimos e financiamentos
+        6.03.04 -> Dividendos e Juros sobre Capital Próprio Pagos
+        6.03.04 -> Amortização de Emprétimos e Financiamentos
+        6.03.04 -> Pagamentos de empréstimos e financiamentos
+        6.03.04 -> Outros resultados líquidos
+        6.03.04 -> Agio na emissão de ações
+        6.03.04 -> Recebimento de Mútuo - Anterior Coligada
+        6.03.04 -> Aumento de capital social
+        6.03.04 -> Pagamento de empréstimos de curto prazo
+        6.03.04 -> Ágio na emissão de ações
+        6.03.04 -> Pagamento de outros passivos
+        6.03.04 -> Aumento de capital
+        6.03.04 -> Pagamento de dividendos e juros sobre capital próprio
+        6.03.04 -> Pagamento de debêntures
+        6.03.04 -> Custos de transação IPO
+        6.03.04 -> Partes relacionadas
+        6.03.04 -> Agio nas emissão das ações
+        6.03.04 -> Emissão de debêntures
+        6.03.04 -> Pagamentos de arrendamentos
+        6.03.04 -> Custo de emissão
+        6.03.04 -> Ações em tesouraria adquiridas
+        6.03.04 -> Arrendamentos
+        6.03.04 -> Integralização de Capital
+        6.03.04 -> Pagamento de juros
+        6.03.04 -> Pagamento de principal de empréstimos e financiamentos e derivativos
+        6.03.04 -> Resgate de debêntures
+        6.03.04 -> Custo da Transação - Captação de Empréstimos
+        6.03.04 -> Dividendos e Juros Sobre Capital Próprio Pagos
+        6.03.04 -> Amortização de empréstimos e financiamentos, arrendamentos, debêntures  e floor plan
+        6.03.04 -> Amortização de empréstimos e financiamentos, arrendamentos, debêntures e floorplan
+        6.03.04 -> Outros
+        6.03.04 -> Adiantamentos para Futuro Aumento de Capital
+        6.03.04 -> Pagamento de PAES
+        6.03.04 -> Pagamento de PAES  - PARCELAMENTO ESPECIAL LEI Nº 10.684
+        6.03.04 -> Dividendos pagos
+        6.03.04 -> Pagamento de arrendamento
+        6.03.04 -> Pagamento de dividendos
+        6.03.04 -> Pagamento de dividendos em dinheiro
+        6.03.04 -> Empréstimos, financiamentos e debêntures - Amortizações
+        6.03.04 -> Pagamento de REFIS
+        6.03.04 -> Recompra de Ações em Tesouraria
+        6.03.04 -> Pagamento de  Refinanciamento Fiscal - REFIS
+        6.03.04 -> Amortização de recursos concedidos a partes relacionadas
+        6.03.04 -> Pagamento de Refinanciamento Fiscal (REFIS)
+        6.03.04 -> Aumento de Capital
+        6.03.04 -> Pagamento por recompra de ações
+        6.03.05 -> Compra de Ações Próprias
+        6.03.05 -> Compra de ações em tesouraria
+        6.03.05 -> Pagamento de Dividendos
+        6.03.05 -> Gasto com emissão de ações
+        6.03.05 -> Pagamento do principal e juros de passivos de arrendamento
+        6.03.05 -> Captação de empréstimos e financiamentos via subvenção governamental
+        6.03.05 -> Venda de Ações Próprias
+        6.03.05 -> Captação de empréstimos e financiamentos
+        6.03.05 -> Redução de capital
+        6.03.05 -> Juros e custos similares
+        6.03.05 -> Capital Integralizado
+        6.03.05 -> Dividendos e Juros Sobre o Capital Próprio Pagos
+        6.03.05 -> Debêntures - Captação
+        6.03.05 -> Custo da captação de recursos
+        6.03.05 -> Juros pagos
+        6.03.05 -> Aumento de capital
+        6.03.05 -> Resgate de ações preferenciais
+        6.03.05 -> Pagamento do principal de passivos de arrendamento
+        6.03.05 -> Movimentações Societárias
+        6.03.05 -> Dividendos Pagos
+        6.03.05 -> Pagamento de dividendos
+        6.03.05 -> Mútuo com partes relacionadas
+        6.03.05 -> Pagamento de outros passivos
+        6.03.05 -> Adiantamento para Futuro Aumento de Capital
+        6.03.05 -> Dividendos distribuidos
+        6.03.05 -> Pagamentos por recompra de ações
+        6.03.05 -> Adiantamento para Aumento de Capital
+        6.03.05 -> Pagamento aos acionistas dissidentes - incorporação de ações
+        6.03.05 -> Dividendos pagos
+        6.03.05 -> Venda de Ações em Tesouraria
+        6.03.05 -> Outros Resultados Líquidos
+        6.03.05 -> Recompra de Ações
+        6.03.05 -> Pagamentos de juros de empréstimos e financiamentos
+        6.03.05 -> Recurso Provientes da Venda de Ações em Tesouraria
+        6.03.05 -> Liquidação de arrendamentos
+        6.03.05 -> Agio por Subscrição de Ações
+        6.03.05 -> Pagamento de Arrendamento
+        6.03.05 -> Recompra de debêntures
+        6.03.05 -> Amortizações de empréstimos e financiamentos
+        6.03.05 -> Amortização de títulos a pagar na aquisição de controladas
+        6.03.05 -> Pagamentos de emprést., financ e arrend. por direito de uso
+        6.03.05 -> Caixa e equivalentes de caixa recebidos para aumento líquido de capital social
+        6.03.05 -> Custo de transação de fiança
+        6.03.05 -> (Compra) venda de ações da própria Companhia (mantidas em tesouraria)
+        6.03.05 -> (Compra) venda de ações da própria Companhia
+        6.03.05 -> Pagamentos de emprést., financ. e deb. e arrend. por direito de uso
+        6.03.05 -> Aumento de Capital Social
+        6.03.06 -> Adiantamento Para Aumento de Capital
+        6.03.06 -> Aporte de capital
+        6.03.06 -> Emissão de Debêntures
+        6.03.06 -> Juros de empréstimos e debêntures pagos
+        6.03.06 -> Dividendos e juros sobre capital próprio pagos
+        6.03.06 -> Custos de Transação
+        6.03.06 -> Dividendos pagos
+        6.03.06 -> Subvenções Governamentais
+        6.03.06 -> Pagamento passivos de arrendamento IFRS 16
+        6.03.06 -> Prêmio de emissão e custos associados
+        6.03.06 -> Dividendos e Juros Sobre o Capital Próprio Pagos
+        6.03.06 -> Pagamentos de empréstimos e debêntures
+        6.03.06 -> Pagamento de principal de empréstimos e financiamentos e derivativos
+        6.03.06 -> Pagamento de principal de empréstimos e finaniamentos e derivativos
+        6.03.06 -> Outros Pagamentos e Recebimentos Líquidos
+        6.03.06 -> Cancelamento de ações em tesouraria
+        6.03.06 -> Captação de empréstimos com partes relacionadas
+        6.03.06 -> Outros Pagamentos e Recebimentos
+        6.03.06 -> Pagamento de Obrigações com CDE / Revitalização de bacias - principal
+        6.03.06 -> Pagamento de arrendamentos
+        6.03.06 -> Outros
+        6.03.06 -> Outras entradas de caixas
+        6.03.06 -> Outras entradas de caixa
+        6.03.06 -> Integralização de Capital
+        6.03.06 -> Pagamento de principal sobre empréstimos
+        6.03.06 -> Outros Pagamentos e Recebimentos Líquidas
+        6.03.06 -> Juros pagos sobre empréstimos
+        6.03.06 -> Juros de empréstimos pagos
+        6.03.06 -> Arrendamentos pagos
+        6.03.06 -> Resgate de ações preferenciais
+        6.03.06 -> Pagamento do principal de passivos de arrendamento
+        6.03.06 -> Pagamento de principal de empréstimos
+        6.03.06 -> Empréstimos e adiantamentos de Caixas Tomados Partes Relacionadas
+        6.03.06 -> Caixa e equivalentes de caixa adquiridos por incorporação
+        6.03.06 -> Adiantamento para futuro aumento de capital
+        6.03.06 -> Pagamentos de passivo de arrendamento
+        6.03.07 -> Arrendamentos pagos
+        6.03.07 -> Liquidação do Exercício de Opções
+        6.03.07 -> Pagamento de passivo mensurado a fair value (NSR)
+        6.03.07 -> Empréstimos e financiamentos pagos
+        6.03.07 -> Dividendos pagos
+        6.03.07 -> Juros pagos sobre empréstimos
+        6.03.07 -> Custo na emissão de debêntures
+        6.03.07 -> Pagamento de arrendamentos - principal
+        6.03.07 -> Aplicações financeiras - Conta Reserva Debêntures
+        6.03.07 -> Amortização arrendamento mercantil
+        6.03.07 -> Pagamento de passivo de royalty (NSR)
+        6.03.07 -> Pagamentos de juros de passivo de arrendamento
+        6.03.07 -> Encargos contratuais Leasing IFRS 16 - Principal
+        6.03.07 -> Juros e custos simlares
+        6.03.07 -> Aumento de capital (Custo de captação)
+        6.03.07 -> Juros sobre o capital próprio pagos
+        6.03.07 -> Pagamentos passivos de arrendamentos IFRS16
+        6.03.07 -> Aquisição de Fundos com Participação de Não-Controladores
+        6.03.07 -> Captação de mútuo com partes relacionadas
+        6.03.07 -> Pagamento de cessão de direitos creditórios
+        6.03.07 -> Resgate de Ações em Tesouraria
+        6.03.07 -> Mútuo partes relacionadas
+        6.03.07 -> Prêmio de emissão e custos associados
+        6.03.07 -> Valores procedentes de emissão de ações
+        6.03.07 -> Opções Outorgadas Exercidas
+        6.03.07 -> Pagamento de dividendos
+        6.03.07 -> Juros e custos similares
+        6.03.07 -> Outros
+        6.03.07 -> Juros de empréstimos pagos
+        6.03.07 -> Aumento de Capital
+        6.03.08 -> Outras participações de não-controladores
+        6.03.08 -> Aquisição de Ações para Manutençao em Tesouraria
+        6.03.08 -> Outros
+        6.03.08 -> Partes relacionadas
+        6.03.08 -> Aquisição de Ações para Manutenção em Tesouraria
+        6.03.08 -> Amortização de debêntures
+        6.03.08 -> Dividendos pagos
+        6.03.08 -> Valores procedentes de empréstimos de curto prazo
+        6.03.08 -> Valores procedentes de empréstios de curto prazo
+        6.03.08 -> Ajuste de Avaliação Patrimonial Reflexo
+        6.03.08 -> Custo de transação de fiança
+        6.03.08 -> Liquidação Swap
+        6.03.08 -> Aporte de capital
+        6.03.08 -> Captação arrendamento mercantil
+        6.03.08 -> Juros pagos sobre arrendamentos
+        6.03.08 -> Valores prodecentes de empréstimos de curto prazo
+        6.03.08 -> Prêmio de emissão e custos associados
+        6.03.08 -> Aporte pela peferta pública de ações
+        6.03.08 -> Recebimento de Mútuo
+        6.03.08 -> Arrendamento mercantil
+        6.03.08 -> Outras atividades de financiamento
+        6.03.08 -> Pagamento de dividendos
+        6.03.08 -> Encargos contratuais Leasing IFRS 16 - Principal
+        6.03.08 -> Encargos contratuais Leasing IFRS 16 - Juros
+        6.03.09 -> Adiantamento para futuro aumento de capital
+        6.03.09 -> Pagamento de dividendos
+        6.03.09 -> Redução reserva de capital - não controladores
+        6.03.09 -> Juros recebidos
+        6.03.09 -> Novas cessões de direitos creditórios
+        6.03.09 -> Depósitos Judiciais/ Penhora
+        6.03.09 -> Encargos contratuais Leasing IFRS 16 - Juros
+        6.03.09 -> Pagamentos para adquirir as ações da entidade
+        6.03.09 -> Rendimentos financeiros 
+        6.03.09 -> Pagamentos para adquirir ou remir as ações da entidade
+        6.03.09 -> Dividendos/ações bonificadas pagos
+        6.03.09 -> Pagamento de principal de arrendamentos
+        6.03.09 -> Venda de ações em tesouraria
+        6.03.09 -> Dividendos/ações bonificadas
+        6.03.09 -> Dividendos pagos a não-controladores
+        6.03.09 -> Pagamentos para adquirir ou emitir ações da entidade
+        6.03.09 -> Pagamentos para adquirir ouremir as ações de entidade
+        6.03.09 -> Debêntures com swap
+        6.03.10 -> Pagamentos para recompra de ações
+        6.03.10 -> Recompra de ações em tesouraria
+        6.03.10 -> Recompra de ações
+        6.03.10 -> Caixa Líquido Proveniente das (Usado nas) Atividades de Financiamento da operação descontinuada
+        6.03.10 -> Transações com entidades não controladoras
+        6.03.10 -> Debêntures com swap
+        6.03.10 -> Pagamento de instrumentos de financiamento (Nota 26)
+        6.03.10 -> Juros pagos sobre empréstimos
+        6.03.10 -> Transações com entidades não-controladoras
+        6.03.11 -> Juros pagos sobre debêntures
+        6.03.11 -> Transações com entidades não-controladoras
+        6.03.11 -> Reduções de capital e prestações suplementares
+        6.03.11 -> Pagamentos para recompra de ações
+        6.03.12 -> Custo de transação de debêntures e empréstimos
+        6.03.12 -> Outras atividades de financiamento
+        6.03.12 -> Outros
+        6.03.14 -> Aquisição de participacao em controlada - parcelas diferidas pagas
+        6.03.20 -> Outros
+        6.03.20 -> Outros Recebimentos
+    6.04 -> Variação Cambial s/ Caixa e Equivalentes
+    6.04 -> Efeitos de Variação Cambial s/ Caixa e Equivalentes
+    6.05 -> Aumento (Redução) de Caixa e Equivalentes
+        6.05.01 -> Saldo Inicial de Caixa e Equivalentes
+        6.05.02 -> Saldo Final de Caixa e Equivalentes

@@ -16,7 +16,9 @@ echo Ativando ambiente virtual...
 call ".venv\Scripts\activate.bat"
 
 echo Iniciando aplicacao...
-python -m jobs.formulario_informacoes_trismestrais
+
+REM python -m jobs.formulario_informacoes_trismestrais
+python -m jobs.b3_companies_page
 
 echo.
 echo Aplicacao encerrada.
