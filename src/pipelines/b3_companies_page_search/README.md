@@ -14,7 +14,7 @@ No exemplo do projeto, foi usada a lista de empresas com balanço patrimonial re
 
 ## Limitações
 
-!["b3_companies_page_problema_escolha_do_bloco](../../../assets/b3_companies_page_problema_escolha_do_bloco.png)
+![b3_companies_page_problema_escolha_do_bloco](../../../assets/b3_companies_page_problema_escolha_do_bloco.png)
 
 
 Nesse exemplo, o script não conseguiu selecionar o `bloco` porque o nome informado foi `PORTO SERVIÇO S.A`.
