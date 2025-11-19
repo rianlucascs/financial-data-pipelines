@@ -3,7 +3,7 @@ from os.path import join
 from src.config import *
 from pandas import read_csv
 
-class TransformB3CompaniesPage:
+class TransformB3CompaniesPageSearch:
 
     def __init__(self, pipeline):
         self.pipeline = pipeline

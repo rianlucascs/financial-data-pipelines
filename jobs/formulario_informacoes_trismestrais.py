@@ -7,7 +7,12 @@ class JobFormularioInformacoesTrimestrais:
         self.pipeline = PipelineFormularioInformacoesTrimestrais()
 
     def should_run(self):
-        return True
+        """Regra de execução"""
+
+        run = False
+        
+        print(f"JobFormularioInformacoesTrimestrais.should_run = {run}")
+        return run
 
     def run(self):
         if self.should_run():

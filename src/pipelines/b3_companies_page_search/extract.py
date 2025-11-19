@@ -1,11 +1,6 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.common.exceptions import TimeoutException
 
 from time import sleep
 from os.path import join, exists
@@ -13,6 +8,7 @@ from pandas import read_csv, DataFrame
 import logging
 
 from src.config import *
+from src.utils import options, find, safe_click, web_driver
 
 logging.basicConfig(level=logging.INFO,format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -40,7 +36,7 @@ class X:
         "site":              '//*[@class="card-text"][strong[text()="Site"]]/following-sibling::p/a'
     }
 
-class ExtractB3CompaniesPage:
+class ExtractB3CompaniesPageSearch:
 
     def __init__(self, pipeline, update=False):
         self.pipeline = pipeline
@@ -49,35 +45,6 @@ class ExtractB3CompaniesPage:
         self.driver = None
         self.registros = []
 
-    # helpers universais
-
-    def options(self):
-        options = Options()
-        options.add_argument("--start-maximized")
-        options.add_argument("--incognito")
-        options.add_argument("--disable-popup-blocking")
-        options.add_argument("--disable-notifications")
-        return options
-
-    def find(self, xpath, wait=10, all=False):
-        """Localiza e retorna elemento com wait padrão."""
-        try:
-            if all:
-                return WebDriverWait(self.driver, wait).until(EC.visibility_of_all_elements_located((By.XPATH, xpath)))
-            else:
-                return WebDriverWait(self.driver, wait).until(EC.visibility_of_element_located((By.XPATH, xpath)))
-        except TimeoutException:
-            return None     
-    
-    def safe_click(self, xpath, wait=10):
-        """Clica em um elemento com espera explícita."""
-        try:
-            elem = WebDriverWait(self.driver, wait).until(EC.element_to_be_clickable((By.XPATH, xpath)))
-            elem.click()
-            return True
-        except TimeoutException:
-            return False
-        
     # leitura do arquivo
 
     def dados_empresa(self):
@@ -92,22 +59,22 @@ class ExtractB3CompaniesPage:
     # pagina 1
 
     def input_empresa(self, name):
-        campo = self.find(X.INPUT_EMPRESA)
+        campo = find(self.driver, X.INPUT_EMPRESA)
         campo.clear()
         sleep(0.5)
         campo.send_keys(name)
 
     def buscar(self):
-        self.safe_click(X.BUTTON_BUSCAR)
+        safe_click(self.driver, X.BUTTON_BUSCAR)
         sleep(0.7)
 
     def nao_ha_dados(self):
-        return self.find(X.MSG_NAO_HA_DADOS, wait=3) is not None
+        return find(self.driver, X.MSG_NAO_HA_DADOS, wait=3) is not None
     
     # pagina 2
 
     def numero_blocos(self):
-        elem = self.find(X.RESULT_NUMERO_EMPRESAS, wait=5)
+        elem = find(self.driver, X.RESULT_NUMERO_EMPRESAS, wait=5)
         return int(elem.text) if elem else 1
 
     def xpath_info_bloco(self, bloco, linha):
@@ -130,7 +97,7 @@ class ExtractB3CompaniesPage:
                 logging.warning(f"page 2, bloco = {bloco}, linha = {linha}")
 
                 xpath_info = self.xpath_info_bloco(bloco, linha)
-                info = self.find(xpath_info, wait=5)
+                info = find(self.driver, xpath_info, wait=5)
                 if not info:
                     continue
 
@@ -142,7 +109,7 @@ class ExtractB3CompaniesPage:
                         logging.info(f"page 2, bloco = {bloco}, linha = {linha}, nome = '{nome}', texto = '{texto}'")
 
                         # click
-                        self.safe_click(xpath_info)
+                        safe_click(self.driver, xpath_info)
 
                         # verifica CNPJ
                         cnpj_page = self.get_info("cnpj")
@@ -162,16 +129,16 @@ class ExtractB3CompaniesPage:
 
     def get_info(self, campo):
         xpath = X.INFO[campo]
-        elem = self.find(xpath)
+        elem = find(self.driver, xpath)
         return elem.text if elem else None
 
     def abrir_outros_codigos(self):
-        self.safe_click(X.BTN_OUTROS_CODIGOS)
+        safe_click(self.driver, X.BTN_OUTROS_CODIGOS)
         sleep(0.5)
 
     def get_outros_codigos(self):
-        col1 = self.find(X.OUTROS_COL1, all=True)
-        col2 = self.find(X.OUTROS_COL2, all=True)
+        col1 = find(self.driver, X.OUTROS_COL1, all=True)
+        col2 = find(self.driver, X.OUTROS_COL2, all=True)
 
         lista = []
         
@@ -182,7 +149,6 @@ class ExtractB3CompaniesPage:
 
         return lista
         
-
     # utils
 
     def tratar_nome(self, nome):
@@ -211,9 +177,10 @@ class ExtractB3CompaniesPage:
     
     def main(self):
         if self.update is False:
+            logging.warning("update = False")
             return
         
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.options())
+        self.driver = web_driver()
         self.driver.get(self.url)
 
         dados = self.dados_empresa()
@@ -313,14 +280,15 @@ class ExtractB3CompaniesPage:
                 logging.warning(f"erro no código, reiniciando... {error}")
                 self.driver.quit()
                 sleep(50)
-                self.driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.options())
+                self.driver = web_driver()
                 self.driver.get(self.url)
+
                 continue
 
         # --- salvar ---
 
         df = DataFrame(self.registros)
-        path = join(PATH_RAW(self.pipeline, "csv"), "b3_dados_empresa.csv")
+        path = join(PATH_RAW(self.pipeline, "csv"), "dados.csv")
         df.to_csv(path, index=False, encoding="utf-8", mode="w")
         logging.info(f"Arquivo salvo em: {path}")
 

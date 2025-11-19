@@ -1,16 +1,16 @@
 
-from src.pipelines.b3_companies_page_search import ExtractB3CompaniesPage
-from src.pipelines.b3_companies_page_search import TransformB3CompaniesPage
+from src.pipelines.b3_companies_page_search import ExtractB3CompaniesPageSearch
+from src.pipelines.b3_companies_page_search import TransformB3CompaniesPageSearch
 
-class PipelineB3CompaniesPage:
+class PipelineB3CompaniesPageSearch:
 
     def run(self) -> None:
-        pipeline = "b3_companies_page"
+        pipeline = "b3_companies_page_search"
 
-        extract = ExtractB3CompaniesPage(
+        extract = ExtractB3CompaniesPageSearch(
             pipeline, 
-            update=False)
+            update=True)
         extract.main()
 
-        transform = TransformB3CompaniesPage(pipeline)
+        transform = TransformB3CompaniesPageSearch(pipeline)
         transform.main()

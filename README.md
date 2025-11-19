@@ -10,16 +10,21 @@ Executa pipelines de extração, transformação e carga (ETL) de dados financei
 **Objetivo:**
 Organizar e padronizar todos os dados financeiros brasileiros disponíveis.
 
+
+>Nota: Este projeto não avalia a qualidade ou relevância dos dados.
+O foco é apenas disponibilizar todas as informações de forma organizada para que o cliente decida o que é útil.
+
 ---
 
 ## **Pipelines incluídos**
 
-* **[Formulário de Informações Trimestrais](src/pipelines/cvm_formulario_informacoes_trismestrais/README.md)** — coleta do balanço patrimonial trimestral.
+* **[CVM Formulário de Informações Trimestrais](src/pipelines/cvm_formulario_informacoes_trismestrais/README.md)** 
 
-* **[B3 Companies Page Search](src/pipelines/b3_companies_page_search/README.md)** — busca informações no site da B3 sobre empresas com balanço patrimonial registrado na CVM.
+* **[B3 Companies Page Search](src/pipelines/b3_companies_page_search/README.md)**
 
-* **[B3 Companies Page All](src/pipelines/b3_companies_page_all/README.md)** — coleta todas as informações disponíveis sobre todos os ativos listados no site da B3.
+* **[B3 Companies Page All](src/pipelines/b3_companies_page_all/README.md)**
 
+* **[CVM Fundos de Investimentos Informação Cadastral](src/pipelines/cvm_fundos_de_investimentos_informacao_cadastral/README.md)**
 
 ---
 
