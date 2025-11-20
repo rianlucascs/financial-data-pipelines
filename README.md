@@ -10,10 +10,6 @@ Executa pipelines de extração, transformação e carga (ETL) de dados financei
 **Objetivo:**
 Organizar e padronizar todos os dados financeiros brasileiros disponíveis.
 
-
->Nota: Este projeto não avalia a qualidade ou relevância dos dados.
-O foco é apenas disponibilizar todas as informações de forma organizada para que o cliente decida o que é útil.
-
 ---
 
 ## **Pipelines incluídos**

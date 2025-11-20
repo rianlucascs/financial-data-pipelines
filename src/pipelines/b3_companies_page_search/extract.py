@@ -14,26 +14,26 @@ logging.basicConfig(level=logging.INFO,format="%(asctime)s - %(levelname)s - %(m
 
 class X:
 
-    INPUT_EMPRESA = '//*[@id="keyword"]'
-    BUTTON_BUSCAR = '//*[@id="accordionName"]/div/app-companies-home-filter-name/form/div/div[3]/button'
-    MSG_NAO_HA_DADOS = '//*[@id="accordionName"]/div/app-companies-home-filter-name/form/div[2]/div/div'
+    INPUT_EMPRESA =                 '//*[@id="keyword"]'
+    BUTTON_BUSCAR =                 '//*[@id="accordionName"]/div/app-companies-home-filter-name/form/div/div[3]/button'
+    MSG_NAO_HA_DADOS =              '//*[@id="accordionName"]/div/app-companies-home-filter-name/form/div[2]/div/div'
 
-    RESULT_NUMERO_EMPRESAS = '//*[@id="divContainerIframeB3"]/form/div[1]/div/div/div[1]/p/span[1]'
-    BLOCOS = '//*[@id="nav-bloco"]/div/div'
+    RESULT_NUMERO_EMPRESAS =        '//*[@id="divContainerIframeB3"]/form/div[1]/div/div/div[1]/p/span[1]'
+    BLOCOS =                        '//*[@id="nav-bloco"]/div/div'
 
-    BTN_OUTROS_CODIGOS = '//a[contains(@href, "#accordionBody2")]'
-    OUTROS_COL1 = '//*[@id="accordionBody2"]//table/tr/td[1]/p'
-    OUTROS_COL2 = '//*[@id="accordionBody2"]//table/tr/td[2]/p'
+    BTN_OUTROS_CODIGOS =            '//a[contains(@href, "#accordionBody2")]'
+    OUTROS_COL1 =                   '//*[@id="accordionBody2"]//table/tr/td[1]/p'
+    OUTROS_COL2 =                   '//*[@id="accordionBody2"]//table/tr/td[2]/p'
                     
     INFO = {
-        "nome_pregao":       '//*[@class="card-text"][strong[text()="Nome do Pregão"]]/following-sibling::p[@class="card-linha"]',
-        "cod_negociacao":    '//*[@class="card-text"][strong[text()="Código de Negociação"]]/following-sibling::p/a',
-        "cod_cvm":           '//*[@id="accordionBody2"]//span[b[text()="Código CVM"]]/p',
-        "inicio_negociacao": '//*[@class="card-text"][strong[text()="Início de negociação das ações"]]/following-sibling::p',
-        "cnpj":              '//*[@class="card-text"][strong[text()="CNPJ"]]/following-sibling::p',
-        "atividade":         '//*[@class="card-text"][strong[text()="Atividade Principal"]]/following-sibling::p',
-        "setorial":          '//*[@class="card-text"][strong[text()="Classificação Setorial"]]/following-sibling::p',
-        "site":              '//*[@class="card-text"][strong[text()="Site"]]/following-sibling::p/a'
+        "nome_pregao":         '//*[@class="card-text"][strong[text()="Nome do Pregão"]]/following-sibling::p[@class="card-linha"]',
+        "cod_negociacao":      '//*[@class="card-text"][strong[text()="Código de Negociação"]]/following-sibling::p/a',
+        "cod_cvm":             '//*[@id="accordionBody2"]//span[b[text()="Código CVM"]]/p',
+        "inicio_negociacao":   '//*[@class="card-text"][strong[text()="Início de negociação das ações"]]/following-sibling::p',
+        "cnpj":                '//*[@class="card-text"][strong[text()="CNPJ"]]/following-sibling::p',
+        "atividade":           '//*[@class="card-text"][strong[text()="Atividade Principal"]]/following-sibling::p',
+        "setorial":            '//*[@class="card-text"][strong[text()="Classificação Setorial"]]/following-sibling::p',
+        "site":                '//*[@class="card-text"][strong[text()="Site"]]/following-sibling::p/a'
     }
 
 class ExtractB3CompaniesPageSearch:
@@ -251,7 +251,7 @@ class ExtractB3CompaniesPageSearch:
                 # --- Página 3 ---
 
                 self.abrir_outros_codigos()
-                outros = self.get_outros_codigos()
+                outros_codigos = self.get_outros_codigos()
 
                 dados_empresa = {
                     "nome_pregao": self.get_info("nome_pregao"),
@@ -262,7 +262,7 @@ class ExtractB3CompaniesPageSearch:
                     "atividade": self.get_info("atividade"),
                     "setorial": self.get_info("setorial"),
                     "site": self.get_info("site"),
-                    "outros_codigos_de_negociacao": outros
+                    "outros_codigos_de_negociacao": outros_codigos
                 }
 
                 logging.info(f"Dados coletados: {dados_empresa}")

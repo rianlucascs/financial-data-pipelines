@@ -1,5 +1,6 @@
 .venv/
 data/pipelines/formulario_informacoes_trimestrais/processed/order_columns_CD_CONTA_e_DS_CONTA/*.txt
+/data/pipelines/b3_companies_page_all/raw/json/*.json
 
 *.csv
 *.db
