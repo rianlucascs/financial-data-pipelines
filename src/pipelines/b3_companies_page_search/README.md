@@ -1,4 +1,4 @@
-# **B3 Companies Page**
+# **B3 Companies Page Search**
 
 Pipeline que acessa a página pública da B3 para **consultar empresas** e **coletar todas as informações exibidas** sobre cada companhia.
 
