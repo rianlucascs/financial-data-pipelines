@@ -1,7 +1,6 @@
 
 from src.config import *
 from os.path import join, exists
-from os import listdir
 from pandas import DataFrame, read_csv, concat
 from datetime import date
 import logging
@@ -22,7 +21,6 @@ class TransformFormularioInformacoesTrimestrais:
         print(f"\n{__class__.__name__}\n_concats_csv\n")
 
         # leitura dos dados
-
         for itr_name in self.itrs:
             df = DataFrame()
             
@@ -45,7 +43,6 @@ class TransformFormularioInformacoesTrimestrais:
                         continue
                     
                     # processamento
-
                     df = concat([df, df_raw_csv])
                 df.to_csv(path_iterim_csv, index=False, encoding='utf-8', mode='w')
 
@@ -58,7 +55,6 @@ class TransformFormularioInformacoesTrimestrais:
         print(f"\n{__class__.__name__}\n_order_columns_CD_CONTA_e_DS_CONTA\n")
 
         # leitura dos dados
-
         for itr_name in self.itrs:
             
             # caminho destino
@@ -78,7 +74,6 @@ class TransformFormularioInformacoesTrimestrais:
                     continue
                 
                 # processamento
-
                 df_iterim_csv = df_iterim_csv[df_iterim_csv["ORDEM_EXERC"] == "ÚLTIMO"]
                 df_iterim_csv = df_iterim_csv[["CD_CONTA", "DS_CONTA"]].drop_duplicates()
                 df_iterim_csv = df_iterim_csv.sort_values(by="CD_CONTA")
@@ -103,8 +98,7 @@ class TransformFormularioInformacoesTrimestrais:
         """Cria um arquivo CSV com a lista única de companhias (DENOM_CIA)."""
         print(f"\n{__class__.__name__}\n_filter_columns_DENOM_CIA_e_CNPJ_CIA\n")
 
-        # --- READ DATA --- #
-
+        # leitura dos dados
         name_lista_denom_cia_csv = join(f'denom_cnpj_unicos.csv')
         path_processed_lista_denom_cia_csv = join(PATH_PROCESSED(self.pipeline, "filter_columns_DENOM_CIA_e_CNPJ_CIA"), name_lista_denom_cia_csv)
         
@@ -121,7 +115,7 @@ class TransformFormularioInformacoesTrimestrais:
                 logging.error(f"Erro ao abrir o arquivo '{name_interim_csv}': {erro}")
                 return
             
-            # --- PROCESSED --- #
+            # processamento
             df_iterim_csv[["DENOM_CIA", "CNPJ_CIA"]].drop_duplicates().to_csv(path_processed_lista_denom_cia_csv, index=False)
 
             logging.info(f"Arquivo '{name_lista_denom_cia_csv}' criado e salvo com sucesso.")

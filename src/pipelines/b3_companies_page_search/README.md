@@ -1,5 +1,7 @@
 # **B3 Companies Page Search**
 
+!["Vídeo demonstrativo](../../../assets/b3_companies_page_terminal.gif)
+
 Pipeline que acessa a página pública da B3 para **consultar empresas** e **coletar todas as informações exibidas** sobre cada companhia.
 
 O pipeline **precisa de uma base contendo o nome da empresa e o CNPJ**.
@@ -7,9 +9,6 @@ No exemplo do projeto, foi usada a lista de empresas com balanço patrimonial re
 
 **Fonte oficial da consulta:**
 [https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/?language=pt-br](https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/?language=pt-br)
-
-
-!["Vídeo demonstrativo](../../../assets/b3_companies_page_terminal.gif)
 
 
 ## Limitações

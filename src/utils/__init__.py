@@ -6,9 +6,3 @@ from .rpa import (
     retry_on_false,
     retry_find
     )
-
-from .io_manager import (
-    load_json,
-    save_json,
-    get_json
-)
