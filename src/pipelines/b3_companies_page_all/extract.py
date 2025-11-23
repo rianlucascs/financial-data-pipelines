@@ -4,7 +4,7 @@ import logging
 from json import load, dump
 from selenium.webdriver.common.by import By
 from src.config import *
-from src.utils import find, safe_click, web_driver, retry_on_false, retry_find
+from src.utils import find, safe_click, web_driver, retry
 
 logging.basicConfig(level=logging.INFO,format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -41,8 +41,9 @@ class X:
 
 class ExtractB3CompaniesPageAll:
 
-    def __init__(self, pipeline):
+    def __init__(self, pipeline, update=False):
         self.pipeline = pipeline
+        self.update = update
         self.url = "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/search?language=pt-br"
         self.driver = None
         self.companies = 1
@@ -58,7 +59,7 @@ class ExtractB3CompaniesPageAll:
     def numero_empresas_encontradas(self):
         return int(find(self.driver, X.EMPRESAS_ENCONTRADAS).text.replace('.', ''))
     
-    @retry_on_false(retries=3)
+    @retry(retries=3, type="Bool")
     def resultado_por_pagina(self):
         return safe_click(self.driver, X.RESULTADOS_POR_PAGINA)
         
@@ -68,15 +69,15 @@ class ExtractB3CompaniesPageAll:
     def quantidade_de_paginas(self):
         return int(find(self.driver, X.QUANTIDADE_DE_PAGINAS).text)
     
-    @retry_on_false(retries=3)
+
     def proxima_pagina(self, wait=10):
         return safe_click(self.driver, X.PROXIMA_PAGINA, wait)
 
-    @retry_on_false(retries=3)
+    @retry(retries=3, type="Bool")
     def abrir_bloco(self, bloco):
         return safe_click(self.driver, X.ABRIR_BLOCO(bloco))
     
-    @retry_find(retries=3)
+    @retry(retries=3, type="None")
     def info_bloco(self, xpath):
         return find(self.driver, xpath)
     
@@ -119,6 +120,7 @@ class ExtractB3CompaniesPageAll:
             dump(self.data_json, f, indent=2, ensure_ascii=False)
 
     def loop(self):
+        
         self.driver = web_driver()
         self.driver.get(self.url)
 
@@ -133,15 +135,35 @@ class ExtractB3CompaniesPageAll:
             bloco = 1
             while bloco <= quantidade_de_blocos_da_pagina:
                 
-                # Paginação
-                if self.page > 1:
-                    for _ in range(self.page-1):
-                        self.proxima_pagina(wait=15)
-                        sleep(2.3)
-
                 print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-                print(self.pagina_atual())
-                logging.info(f"pagina = {self.page} / {quantidade_de_paginas}, bloco = {bloco} / {quantidade_de_blocos_da_pagina}, empresas = {self.companies} / {numero_empreas_encontradas}")
+
+                # Paginação
+
+                pagina_atual = self.pagina_atual()
+
+                logging.info(f"pagina_atual = {pagina_atual}")
+
+                if pagina_atual < self.page:
+                    
+                    if self.page > 1:
+                        for _ in range(self.page-1):
+                            self.proxima_pagina(wait=15)
+                            sleep(2.5)
+                            pagina_atual = self.pagina_atual()
+                            if self.page == pagina_atual:
+                                break
+
+                if pagina_atual > self.page:
+                    self.driver.get(self.url)
+                    sleep(5)
+                    logging.warning(f"pagina_atual = {pagina_atual} > self.page = {self.page}")
+                    continue
+
+                pagina_atual = self.pagina_atual()
+
+                logging.info(f"pagina_atual = {pagina_atual}")
+                
+                logging.info(f"pagina_contador = {self.page} / {quantidade_de_paginas}, bloco = {bloco} / {quantidade_de_blocos_da_pagina}, empresas = {self.companies} / {numero_empreas_encontradas}")
                 
                 # Pagina 1 - Seleciona e extrai informações do bloco
 
@@ -154,18 +176,17 @@ class ExtractB3CompaniesPageAll:
                 except Exception as error:
                     logging.error(f'info_bloco = error')
                     self.driver.close()
-                    sleep(0.5)
+                    sleep(1.3)
+                    self.driver = web_driver()
                     self.driver.get(self.url)
                     sleep(0.9)
-                    self.save_json()
                     continue
                 
                 # Se já tivermos processado esse bloco então pule
                 if info_bloco_title2 in self.siglas_existentes:
                     bloco += 1
-                    self.companies += 1
                     logging.info(f"Bloco já processado: {info_bloco_title2}, {info_bloco_title}, {info_bloco_text}")
-                    
+                    self.companies += 1
                     continue
                 else:     
                     # Adiciona silga para controle do loop
@@ -196,8 +217,9 @@ class ExtractB3CompaniesPageAll:
 
                 logging.info(dados_empresa)
 
-                # data.append(dados_empresa)
+                # Salva progresso
                 self.data_json['empresas'].append(dados_empresa)
+                self.save_json()
 
                 # Volta para a seleção de blocos
                 self.driver.get(self.url) # self.driver.back()                
@@ -206,7 +228,7 @@ class ExtractB3CompaniesPageAll:
                 # Seta novamento o número de informações por pagina
                 self.resultado_por_pagina()
 
-                sleep(0.9)
+                sleep(1)
 
                 # Proximo bloco
                 bloco += 1
@@ -215,14 +237,18 @@ class ExtractB3CompaniesPageAll:
                 self.companies += 1
 
             self.page += 1        
+            sleep(1.3)
+
         
     def main(self):
+        if self.update is False:
+            logging.warning(f"{self.__class__.__name__}, update = False")
+            return
         try:
             self.loop()
         except Exception as error:
-            self.save_json()
+            self.driver.close()
             logging.error(error)
             self.main()
         finally:
-            self.driver.quit()
-            self.save_json()   
+            self.driver.quit() 

@@ -19,6 +19,32 @@ from time import sleep
 import logging
 logging.basicConfig(level=logging.INFO,format="%(asctime)s - %(levelname)s - %(message)s")
 
+# decoradores
+
+def retry(retries=3, type="None | Bool"):
+    """fun = safe_click"""
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            
+            for attempt in range(retries):
+                result = func(*args, **kwargs)
+
+                if type == "Bool":
+                    if result is True:
+                        return True
+                    
+                if type == "None":
+                    if result is not None:
+                        return result
+                    
+                logging.warning(f"retry, tentativa = {attempt+1}, xpath = {args[1]}")
+                sleep(1+attempt)
+                
+            return False
+        return wrapper
+    return decorator
+
 # helpers universais
 
 def options():
@@ -57,38 +83,11 @@ def safe_click(driver, xpath, wait=10):
             ElementClickInterceptedException,
             NoSuchElementException):
         return False
-    
+
+@retry(retries=3, type="None")
 def web_driver():
-    return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options())
-
-# decoradores
-
-def retry_on_false(retries=3):
-    """fun = safe_click"""
-    def decorator(func):
-        @functools.wraps(func)
-        def wrapper(*args, **kwargs):
-            for attempt in range(retries):
-                result = func(*args, **kwargs)
-                if result is True:
-                    return True
-                logging.warning(f"retry_on_false, tentativa = {attempt+1}, xpath = {args[1]}")
-                sleep(1+attempt)
-            return False
-        return wrapper
-    return decorator
-
-def retry_find(retries=3):
-    """fun = find"""
-    def decorator(func):
-        @functools.wraps(func)
-        def wrapper(*args, **kwargs):
-            for attempt in range(retries):
-                result = func(*args, **kwargs)
-                if result is not None:
-                    return result
-                logging.warning(f"retry_find, tentativa: {attempt+1}, xpath: {args[1]}")
-                sleep(1+attempt)
-            return False
-        return wrapper
-    return decorator
+    try:
+        return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options())
+    except:
+        sleep(30)
+        return None

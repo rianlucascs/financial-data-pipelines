@@ -3,6 +3,5 @@ from .rpa import (
     find, 
     safe_click,
     web_driver,
-    retry_on_false,
-    retry_find
+    retry
     )

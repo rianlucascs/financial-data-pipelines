@@ -9,7 +9,8 @@ class PipelineB3CompaniesPageSearch:
 
         extract = ExtractB3CompaniesPageSearch(
             pipeline, 
-            update=True)
+            update=False
+            )
         extract.main()
 
         transform = TransformB3CompaniesPageSearch(pipeline)

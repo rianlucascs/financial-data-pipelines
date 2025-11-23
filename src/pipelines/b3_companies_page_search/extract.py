@@ -1,14 +1,10 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-
 from time import sleep
 from os.path import join, exists
 from pandas import read_csv, DataFrame
 import logging
 
 from src.config import *
-from src.utils import options, find, safe_click, web_driver
+from src.utils import find, safe_click, web_driver
 
 logging.basicConfig(level=logging.INFO,format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -177,7 +173,7 @@ class ExtractB3CompaniesPageSearch:
     
     def main(self):
         if self.update is False:
-            logging.warning("update = False")
+            logging.warning(f"{self.__class__.__name__}, update = False")
             return
         
         self.driver = web_driver()
@@ -203,14 +199,14 @@ class ExtractB3CompaniesPageSearch:
                 empresa = dados[index][0]
                 cnpj = dados[index][1]
 
-                logging.info(f"{'-'*40}")
+                print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
                 logging.info(f"index = {index}")
                 logging.info(f"pagina 1")
                 logging.info(f"empresa = {empresa}, cnpj = {cnpj}")
 
                 nomes = self.tratar_nome(empresa)
 
-                # --- Página 1 ---
+                # Pagina 1
 
                 if nomes is None: # empresa com restrição
                     index += 1
@@ -236,7 +232,7 @@ class ExtractB3CompaniesPageSearch:
                     self.registros.append(self.se_nao_tiver_dados(empresa, cnpj))
                     continue
 
-                # --- Página 2 ---
+                # Pagina 2
 
                 correto = self.selecionar_bloco_correto(nomes, cnpj)
 
@@ -248,7 +244,7 @@ class ExtractB3CompaniesPageSearch:
                     sleep(0.5)
                     continue
 
-                # --- Página 3 ---
+                # Pagina 3
 
                 self.abrir_outros_codigos()
                 outros_codigos = self.get_outros_codigos()
@@ -285,8 +281,7 @@ class ExtractB3CompaniesPageSearch:
 
                 continue
 
-        # --- salvar ---
-
+        # salvar
         df = DataFrame(self.registros)
         path = join(PATH_RAW(self.pipeline, "csv"), "dados.csv")
         df.to_csv(path, index=False, encoding="utf-8", mode="w")

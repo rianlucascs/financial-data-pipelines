@@ -1,3 +1,3 @@
-
 from .extract import ExtractB3CompaniesPageAll
+from .transform import TransformB3CompaniesPageAll
 from .pipeline import PipelineB3CompaniesPageAll
