@@ -139,6 +139,8 @@ class ExtractB3CompaniesPageAll:
 
                 # Paginação
 
+                self.resultado_por_pagina()
+
                 pagina_atual = self.pagina_atual()
 
                 logging.info(f"pagina_atual = {pagina_atual}")
@@ -158,7 +160,7 @@ class ExtractB3CompaniesPageAll:
                     sleep(5)
                     logging.warning(f"pagina_atual = {pagina_atual} > self.page = {self.page}")
                     continue
-
+                
                 pagina_atual = self.pagina_atual()
 
                 logging.info(f"pagina_atual = {pagina_atual}")
@@ -187,6 +189,7 @@ class ExtractB3CompaniesPageAll:
                     bloco += 1
                     logging.info(f"Bloco já processado: {info_bloco_title2}, {info_bloco_title}, {info_bloco_text}")
                     self.companies += 1
+                    sleep(0.3)
                     continue
                 else:     
                     # Adiciona silga para controle do loop
