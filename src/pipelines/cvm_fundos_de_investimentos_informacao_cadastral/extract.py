@@ -1,8 +1,3 @@
-
-url = "https://dados.cvm.gov.br/dataset/fi-cad"
-url = "https://dados.cvm.gov.br/dados/FI/CAD/DADOS/"
-url = "https://dados.cvm.gov.br/dados/FI/CAD/DADOS/registro_fundo_classe.zip"
-
 import wget
 from zipfile import ZipFile
 from os.path import join, exists
