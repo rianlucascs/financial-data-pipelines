@@ -22,6 +22,8 @@ Organizar e padronizar todos os dados financeiros brasileiros disponíveis.
 
 * **[CVM Fundos de Investimentos Informação Cadastral](src/pipelines/cvm_fundos_de_investimentos_informacao_cadastral/README.md)**
 
+* **[CVM Fundos de Investimentos Documentos Informe Diário](src/pipelines/cvm_fundos_de_investimento_documentos_informe_diario/README.md)**
+
 ---
 
 ## **Como usar**
