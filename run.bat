@@ -17,9 +17,10 @@ call ".venv\Scripts\activate.bat"
 
 echo Iniciando aplicacao...
 
-REM python -m jobs.formulario_informacoes_trismestrais
+REM python -m jobs.cvm_formulario_informacoes_trismestrais
 REM python -m jobs.b3_companies_page_search
-python -m jobs.b3_companies_page_all
+REM python -m jobs.b3_companies_page_all
+python -m jobs.cvm_fundos_de_investimentos_informacao_cadastral
 
 echo.
 echo Aplicacao encerrada.

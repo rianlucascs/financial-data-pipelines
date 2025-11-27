@@ -7,3 +7,4 @@ data/pipelines/formulario_informacoes_trimestrais/processed/order_columns_CD_CON
 *.zip
 __pycache__/
 *.pyc
+desktop.ini

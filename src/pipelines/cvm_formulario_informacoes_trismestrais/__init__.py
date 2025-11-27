@@ -1,3 +1,3 @@
-from .extract import ExtractFormularioInformacoesTrimestrais
-from .transform import TransformFormularioInformacoesTrimestrais
-from .pipeline import PipelineFormularioInformacoesTrimestrais
+from .extract import ExtractCVMFormularioInformacoesTrimestrais
+from .transform import TransformCVMFormularioInformacoesTrimestrais
+from .pipeline import PipelineCVMFormularioInformacoesTrimestrais

@@ -8,7 +8,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-class ExtractFormularioInformacoesTrimestrais:
+class ExtractCVMFormularioInformacoesTrimestrais:
     
     def __init__(self, pipeline: str) -> None:
         self.pipeline = pipeline
@@ -20,6 +20,7 @@ class ExtractFormularioInformacoesTrimestrais:
     def wget_zip(self):
         """Faz o download dos arquivos ZIP de dados trimestrais (ITR) do site da CVM."""
         print(f"\n{__class__.__name__}\n_wget_zip\n")
+        
         for file in self.archives_zip:
             
             path = join(PATH_RAW(self.pipeline, "zip"), file)
@@ -36,6 +37,7 @@ class ExtractFormularioInformacoesTrimestrais:
     def extract_zip(self) -> None:
         """Extrai os arquivos CSV contidos nos arquivos ZIP baixados."""
         print(f"\n{__class__.__name__}\n_extract_zip\n")
+
         for file in self.archives_zip:
             
             path_zip = join(PATH_RAW(self.pipeline, "zip"), file)

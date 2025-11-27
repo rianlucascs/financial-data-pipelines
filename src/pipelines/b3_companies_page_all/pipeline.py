@@ -5,7 +5,7 @@ from src.pipelines.b3_companies_page_all import TransformB3CompaniesPageAll
 class PipelineB3CompaniesPageAll:
 
 
-    def run(self) -> None:
+    def run(self):
         pipeline = "B3_companies_page_all"
         
         extract = ExtractB3CompaniesPageAll(

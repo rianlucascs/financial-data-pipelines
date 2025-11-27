@@ -1,10 +1,10 @@
 
-from src.pipelines.cvm_formulario_informacoes_trismestrais import PipelineFormularioInformacoesTrimestrais
+from src.pipelines.cvm_formulario_informacoes_trismestrais import PipelineCVMFormularioInformacoesTrimestrais
 
-class JobFormularioInformacoesTrimestrais:
+class JobCVMFormularioInformacoesTrimestrais:
 
     def __init__(self):
-        self.pipeline = PipelineFormularioInformacoesTrimestrais()
+        self.pipeline = PipelineCVMFormularioInformacoesTrimestrais()
 
     def should_run(self):
         """Regra de execução"""
@@ -19,4 +19,4 @@ class JobFormularioInformacoesTrimestrais:
             self.pipeline.run()
 
 if __name__ == "__main__":
-    JobFormularioInformacoesTrimestrais().run()
+    JobCVMFormularioInformacoesTrimestrais().run()

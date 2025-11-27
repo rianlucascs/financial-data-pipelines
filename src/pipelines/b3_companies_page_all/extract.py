@@ -51,7 +51,9 @@ class ExtractB3CompaniesPageAll:
 
         self.path_raw = join(PATH_RAW(self.pipeline, "json"), "data.json")
         self.data_json = self.load_json()
+
         self.siglas_existentes = {e["info_bloco_title2"] for e in self.data_json.get("empresas", [])}
+
         logging.info(f'Empresas processadas: {len(self.siglas_existentes)}')
 
     # Pagina 1
@@ -176,7 +178,17 @@ class ExtractB3CompaniesPageAll:
                 
                 # Retornamos o loop, salva os dados e tenta executar novamente
                 except Exception as error:
-                    logging.error(f'info_bloco = error')
+
+                    # Tentativa de identificar o fim do processo
+                    if pagina_atual == quantidade_de_paginas:
+                        if info_bloco_title2 is None:
+                            logging.info("Processo finalizado!")
+                            self.data_json = self.load_json()
+                            siglas_existentes = {e["info_bloco_title2"] for e in self.data_json.get("empresas", [])}
+                            logging.info(f'Empresas processadas: {len(siglas_existentes)}')
+                            return
+                        
+                    logging.error(f"info_bloco = error")
                     self.driver.close()
                     sleep(1.3)
                     self.driver = web_driver()
@@ -238,6 +250,7 @@ class ExtractB3CompaniesPageAll:
 
                 # Contador das empresas
                 self.companies += 1
+                
 
             self.page += 1        
             sleep(1.3)

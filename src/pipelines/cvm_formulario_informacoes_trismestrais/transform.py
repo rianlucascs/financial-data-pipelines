@@ -8,7 +8,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-class TransformFormularioInformacoesTrimestrais:
+class TransformCVMFormularioInformacoesTrimestrais:
 
     def __init__(self, pipeline: str) -> None:
         self.pipeline = pipeline
