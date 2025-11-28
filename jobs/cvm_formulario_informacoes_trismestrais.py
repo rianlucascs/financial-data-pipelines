@@ -7,7 +7,9 @@ class JobCVMFormularioInformacoesTrimestrais:
         self.pipeline = PipelineCVMFormularioInformacoesTrimestrais()
 
     def should_run(self):
-        """Regra de execução"""
+        """
+        Regra de execução
+        """
 
         run = False
         

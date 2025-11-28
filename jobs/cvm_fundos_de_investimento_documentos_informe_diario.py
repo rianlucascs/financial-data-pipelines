@@ -1,10 +1,10 @@
 
-from src.pipelines.cvm_fundos_de_investimentos_informacao_cadastral import PipelineCVMFundosDeInvestimentosInformacaoCadastral
+from src.pipelines.cvm_fundos_de_investimento_documentos_informe_diario import PipelineCVMFundosDeInvestimentoDocumentoInformeDiario
 
-class JobCVMFundosDeInvestimentosInformacaoCadastral:
+class JobCVMFundosDeInvestimentoDocumentoInformeDiario:
 
     def __init__(self):
-        self.pipeline = PipelineCVMFundosDeInvestimentosInformacaoCadastral()
+        self.pipeline = PipelineCVMFundosDeInvestimentoDocumentoInformeDiario()
 
     def should_run(self):
         """
@@ -21,4 +21,4 @@ class JobCVMFundosDeInvestimentosInformacaoCadastral:
             self.pipeline.run()
 
 if __name__ == "__main__":
-    JobCVMFundosDeInvestimentosInformacaoCadastral().run()
+    JobCVMFundosDeInvestimentoDocumentoInformeDiario().run()

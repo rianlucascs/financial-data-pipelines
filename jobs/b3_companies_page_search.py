@@ -7,7 +7,9 @@ class JobB3CompaniesPageSearch:
         self.pipeline = PipelineB3CompaniesPageSearch()
 
     def should_run(self):
-        """Regra de execução"""
+        """
+        Regra de execução
+        """
 
         run = False
         

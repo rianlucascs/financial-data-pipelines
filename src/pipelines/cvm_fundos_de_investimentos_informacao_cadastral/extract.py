@@ -15,6 +15,7 @@ class ExtractCVMFundosDeInvestimentosInformacaoCadastral:
         self.path_raw_zip = join(PATH_RAW(self.pipeline, "zip"), self.file)
 
     def wget_zip(self):
+        
         if not exists(self.path_raw_zip):
             wget.download(self.url, self.path_raw_zip, bar=False)
             logging.info(f"Download realizado com sucesso: {self.file}")

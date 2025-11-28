@@ -20,7 +20,8 @@ echo Iniciando aplicacao...
 REM python -m jobs.cvm_formulario_informacoes_trismestrais
 REM python -m jobs.b3_companies_page_search
 REM python -m jobs.b3_companies_page_all
-python -m jobs.cvm_fundos_de_investimentos_informacao_cadastral
+REM python -m jobs.cvm_fundos_de_investimentos_informacao_cadastral
+python -m jobs.cvm_fundos_de_investimento_documentos_informe_diario
 
 echo.
 echo Aplicacao encerrada.
