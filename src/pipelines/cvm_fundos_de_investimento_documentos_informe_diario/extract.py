@@ -9,6 +9,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 class ExtractCVMFundosDeInvestimentoDocumentoInformeDiario:
     # https://dados.cvm.gov.br/dataset/fi-doc-inf_diario
+
     def __init__(self, pipeline):
         
         # historico desde 2000
@@ -17,6 +18,8 @@ class ExtractCVMFundosDeInvestimentoDocumentoInformeDiario:
         self.archives_hist_zip = [f"inf_diario_fi_{year}.zip" for year in range(2000, 2021)]
         self.folder_hist_desde_2000_zip = "hist_desde_2000_zip"
         self.folder_hist_desde_2000_csv = "hist_desde_2000_csv"
+
+        # historico desde 01/2021
         
     
     def wget_zip_hist_desde_2000(self):

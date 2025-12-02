@@ -16,4 +16,8 @@ Os arquivos contêm as informações contábeis trimestrais das companhias abert
 
 O pipeline processa todos os anos disponíveis (2011 até o ano atual), organiza os arquivos e gera a compactação final.
 
+**Fonte oficial da consulta:**
+[https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr](https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr)
+
+
 **Exploração e visualização dos dados**: [notebooks/cvm_formulario_informacoes_trimestrais](../../../notebooks/cvm_formulario_informacoes_trimestrais)
